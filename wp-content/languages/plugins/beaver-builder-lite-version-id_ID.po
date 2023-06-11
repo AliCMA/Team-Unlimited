@@ -1,0 +1,4118 @@
+# Translation of Plugins - Beaver Builder &#8211; WordPress Page Builder - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Beaver Builder &#8211; WordPress Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-15 20:05:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Beaver Builder &#8211; WordPress Page Builder - Stable (latest release)\n"
+
+#: includes/global-settings.php:420
+msgid "Base Font Size"
+msgstr "Ukuran Dasar Huruf"
+
+#: includes/global-settings.php:426
+msgid "When typography unit is set to vh/vw this unit will be used to calculate the font size."
+msgstr "Ketika unit tipografi diatur ke vh/vw, unit ini akan digunakan untuk menghitung ukuran huruf."
+
+#: classes/class-fl-builder.php:1759
+msgid "Dev Feedback"
+msgstr "Umpan Balik Pengembang"
+
+#: classes/class-fl-builder-settings-presets.php:55
+msgid "Select A Preset"
+msgstr "Pilih sebuah pengaturan baku"
+
+#: classes/class-fl-builder-settings-presets.php:28
+msgid "Untitled Preset"
+msgstr "Pengaturan baku tak berjudul"
+
+#: classes/class-fl-builder-art.php:573
+msgid "Clip Contents"
+msgstr "Isi Klip"
+
+#: classes/class-fl-builder-art.php:572
+msgid "No Clip"
+msgstr "Tanpa Klip"
+
+#: classes/class-fl-builder-art.php:570
+msgid "Clip Within Container"
+msgstr "Klip dengan wadah"
+
+#: classes/class-fl-builder-art.php:566
+msgid "Shape Container"
+msgstr "Bentuk wadah"
+
+#: classes/class-fl-builder-art.php:502
+msgid "Gradient Fill"
+msgstr "Isian Gradasi"
+
+#: classes/class-fl-builder-art.php:501
+msgid "Color Fill"
+msgstr "Isian Warna"
+
+#: classes/class-fl-builder-art.php:109
+msgid "Rectangle"
+msgstr "Bujur sangkar"
+
+#: classes/class-fl-builder-art.php:102
+msgid "Topography"
+msgstr "Topografi"
+
+#: classes/class-fl-builder-art.php:95
+msgid "Spots"
+msgstr "Titik-titik"
+
+#: classes/class-fl-builder-art.php:88
+msgid "Concave"
+msgstr "Cekungan"
+
+#: classes/class-fl-builder-art.php:74
+msgid "Triangle"
+msgstr "Segitiga"
+
+#: classes/class-fl-builder-art.php:66
+msgid "Midpoint"
+msgstr "Titik-tengah"
+
+#: classes/class-fl-builder-art.php:58
+msgid "Waves"
+msgstr "Gelombang"
+
+#: classes/class-fl-builder-art.php:50
+msgid "Slanted Edge"
+msgstr "Trapesium"
+
+#: includes/ui-field-shape-transform.php:70
+msgid "Orientation"
+msgstr "Orientasi"
+
+#: includes/ui-field-shape-transform.php:54
+msgid "Vertical Orientation"
+msgstr "Orientasi Vertikal"
+
+#: includes/ui-field-shape-transform.php:43
+msgid "Horizontal Orientation"
+msgstr "Orientasi Horizontal"
+
+#: includes/ui-field-shape-transform.php:33
+msgid "Rotate"
+msgstr "Rotasi"
+
+#: includes/ui-field-shape-transform.php:27
+msgid "Scale X"
+msgstr "Sumbu X"
+
+#: includes/ui-field-typography.php:211
+msgid "Line Height"
+msgstr "Ketebalan garis"
+
+#: classes/class-fl-builder-art.php:396 includes/ui-field-typography.php:203
+#: modules/icon/icon.php:118
+msgid "Size"
+msgstr "Ukuran"
+
+#: includes/ui-field-typography.php:158
+msgid "Oblique"
+msgstr "Serong"
+
+#: classes/class-fl-builder.php:1609
+msgctxt "Keyboard action to toggle responsive editing"
+msgid "Toggle Responsive Editing Mode"
+msgstr "Ganti Mode Sunting Responsif"
+
+#: classes/class-fl-builder.php:1366
+msgid "Publish Layout"
+msgstr "Terbitkan Tata Letak"
+
+#: classes/class-fl-builder-art.php:267
+msgid "Top Shape Layer"
+msgstr "Lapisan Wujud Teratas"
+
+#: classes/class-fl-builder-art.php:132
+msgid "Untitled Shape"
+msgstr "Wujud Tanpa Judul"
+
+#: includes/ui-field-typography.php:188
+msgid "Font"
+msgstr "Huruf"
+
+#: includes/ui-field-typography.php:170
+msgid "Small Caps"
+msgstr "Huruf Kecil"
+
+#. translators: %d: number of selected
+#: includes/ui-js-config.php:217
+msgid "%d Photo Selected"
+msgstr "%d Foto Dipilih"
+
+#. translators: 1: create app url: 2: register url
+#: classes/class-fl-builder-service-icontact-pro.php:153
+msgid "You must <a%1$s>create an app</a> in iContact Pro to obtain an app ID and password. Please see <a%2$s>the iContact docs</a> for complete instructions."
+msgstr "Anda harus <a%1$s>membuat app</a> pada iContactPro untuk memperoleh ID app dan kata-sandi. Harap lihat <a%2$s>dokumentasi iContact</a> untuk instruksi selengkapnya. "
+
+#: classes/class-fl-builder-service-activecampaign.php:112
+msgid "Your API key can be found in your ActiveCampaign account under My Settings > Developer > API."
+msgstr "Kunci API Anda dapat ditemukan pada akun ActiveCampaign anda, dibawah My Settings > Developer > API."
+
+#. Author URI of the plugin
+msgid "https://www.wpbeaverbuilder.com/?utm_medium=bb&utm_source=plugins-admin-page&utm_campaign=plugins-admin-author"
+msgstr "https://www.wpbeaverbuilder.com/?utm_medium=bb&utm_source=plugins-admin-page&utm_campaign=plugins-admin-author"
+
+#. Plugin URI of the plugin
+msgid "https://www.wpbeaverbuilder.com/?utm_medium=bb&utm_source=plugins-admin-page&utm_campaign=plugins-admin-uri"
+msgstr "https://www.wpbeaverbuilder.com/?utm_medium=bb&utm_source=plugins-admin-page&utm_campaign=plugins-admin-uri"
+
+#: modules/widget/includes/settings-text-widget.php:13
+msgid "Content:"
+msgstr "Konten:"
+
+#: modules/video/video.php:336
+msgid "A video in the MP4 format. Most modern browsers support this format."
+msgstr "Video dalam format MP4. Kebanyakan browser moderen mendukung format ini."
+
+#: modules/audio/audio.php:190
+msgid "Show Artist Name"
+msgstr "Tampilkan Nama Artis"
+
+#: modules/audio/audio.php:169
+msgid "Show Track Numbers"
+msgstr "Tampilkan Nomor Lacak"
+
+#: modules/audio/audio.php:155
+msgid "Show Playlist"
+msgstr "Tampilkan Daftarputar"
+
+#: modules/audio/audio.php:150
+msgid "Dark"
+msgstr "Gelap"
+
+#: modules/audio/audio.php:80
+msgid "Audio Type"
+msgstr "Tipe Audio"
+
+#: modules/audio/audio.php:18 modules/audio/audio.php:97
+msgid "Audio"
+msgstr "Audio"
+
+#: includes/updater/includes/subscriptions.php:48
+msgid "Available Downloads"
+msgstr "Unduhan Tersedia"
+
+#: includes/updater/includes/form.php:65
+msgid "Save License Key"
+msgstr "Simpan Kunci Lisensi"
+
+#: includes/updater/includes/form.php:42
+msgid "License key saved!"
+msgstr "Kunci lisensi tersimpan!"
+
+#: includes/updater/includes/form.php:34
+msgid "Deactivated!"
+msgstr "Deaktivasi!"
+
+#: includes/updater/includes/form.php:24
+msgid "Visit Account"
+msgstr "Kunjungi Akun"
+
+#: includes/ui-loop-settings-filter.php:132 includes/ui-loop-settings.php:127
+msgid "Exclude Current Post"
+msgstr "Artikel Ini Tidak Termasuk"
+
+#: includes/loop-settings-filter.php:20
+#: includes/ui-loop-settings-filter.php:112 includes/ui-loop-settings.php:107
+#: includes/ui-simple-loop.php:89
+msgid "Meta Key"
+msgstr "Kunci Meta"
+
+#: includes/ui-loop-settings-filter.php:97 includes/ui-loop-settings.php:92
+#: includes/ui-simple-loop.php:74
+msgid "Selection Order"
+msgstr "Urutan Pilihan"
+
+#: includes/ui-loop-settings-filter.php:94 includes/ui-loop-settings.php:89
+#: includes/ui-simple-loop.php:72
+msgid "Meta Value (Numeric)"
+msgstr "Nilai Meta (Numerik)"
+
+#: includes/ui-loop-settings-filter.php:93 includes/ui-loop-settings.php:88
+#: includes/ui-simple-loop.php:71
+msgid "Meta Value (Alphabetical)"
+msgstr "Nilai Meta (Alfabetik)"
+
+#: includes/ui-js-templates.php:1187
+msgid "Close"
+msgstr "Tutup"
+
+#: includes/ui-js-templates.php:1152
+msgid "No Revisions Found"
+msgstr "Revisi Tidak Ditemukan"
+
+#: includes/ui-js-templates.php:1119
+msgctxt "Message that displays when there are no templates to display"
+msgid "Sorry, no templates were found!"
+msgstr "Maaf, tidak ada pola yang ditemukan!"
+
+#: includes/ui-js-templates.php:1112
+msgctxt "Message that displays when a panel tab has no view to display"
+msgid "Sorry, no content was found!"
+msgstr "Maaf, tidak ada konten yang ditemukan."
+
+#: includes/ui-js-templates.php:873 includes/ui-js-templates.php:914
+msgid "Get more time-saving features, modules, and expert support."
+msgstr "Dapatkan fitur yang lebih mempercepat, modul-modul, dan dukungan pakar."
+
+#: includes/ui-js-templates.php:667
+msgid "Group"
+msgstr "Grup"
+
+#: includes/ui-js-templates.php:653
+msgid "No settings selected."
+msgstr "Tidak ada seting yang dipilih."
+
+#: includes/ui-js-templates.php:586
+msgid "Search Modules"
+msgstr "Cari Modul"
+
+#: includes/ui-js-templates.php:444
+msgctxt "No content panel search results found"
+msgid "No Results Found"
+msgstr "Tidak Ditemukan"
+
+#: includes/ui-js-templates.php:274
+msgid "More"
+msgstr "Lanjut"
+
+#: includes/ui-js-templates.php:190
+msgid "Delete Column"
+msgstr "Hapus Kolom"
+
+#: includes/ui-js-templates.php:186
+msgid "Move Column"
+msgstr "Pindah Kolom"
+
+#: includes/ui-js-templates.php:88 includes/ui-js-templates.php:204
+msgid "Parent Settings"
+msgstr "Seting Induk"
+
+#: includes/ui-js-templates.php:86 includes/ui-js-templates.php:202
+msgid "Move Parent"
+msgstr "Pindah Induk"
+
+#: includes/ui-js-templates.php:109
+msgid "This column has visibility rules."
+msgstr "Kolom ini memiliki aturan visibilitas."
+
+#: includes/ui-js-templates.php:29 includes/ui-js-templates.php:79
+#: includes/ui-js-templates.php:195
+msgid "Reset Row Width"
+msgstr "Set-ulang Lebar Baris"
+
+#: includes/ui-js-templates.php:28 includes/ui-js-templates.php:76
+#: includes/ui-js-templates.php:192
+msgid "Reset Column Widths"
+msgstr "Set-ulang Lebar Kolom"
+
+#: includes/ui-js-templates.php:26
+msgid "Row Actions"
+msgstr "Aksi Baris"
+
+#: includes/ui-js-templates.php:6 includes/ui-js-templates.php:58
+#: includes/ui-js-templates.php:162
+msgid "Locked"
+msgstr "Terkunci"
+
+#: includes/ui-js-config.php:331
+msgid "No Notifications."
+msgstr "Tidak Ada Notifikasi."
+
+#: includes/ui-js-config.php:330
+msgid "Loading..."
+msgstr "Memuat..."
+
+#: includes/ui-js-config.php:329
+msgid "Notifications"
+msgstr "Notifikasi"
+
+#: includes/ui-js-config.php:317
+msgid "Column Group"
+msgstr "Grup Kolom"
+
+#: includes/ui-js-config.php:314
+msgid "Template"
+msgstr "Pola"
+
+#: includes/ui-js-config.php:310
+msgid "No new changes to save"
+msgstr "Tidak ada perubahan untuk disimpan"
+
+#: includes/ui-js-config.php:309
+msgid "Changes being published"
+msgstr "Perubahan sedang dipublikasikan"
+
+#: includes/ui-js-config.php:308
+msgid "Publishing Changes"
+msgstr "Mempublikasikan Perubahan"
+
+#: includes/ui-js-config.php:307
+msgid "Nothing new to publish"
+msgstr "Tidak ada yang baru untuk di publikasikan"
+
+#: includes/ui-js-config.php:306
+msgid "Ok, got it!"
+msgstr "Ok, mengerti!"
+
+#: includes/ui-js-config.php:304
+msgid "This layout has unpublished changes"
+msgstr "Tata-letak memiliki perubahan yang belum dipublikasikan"
+
+#: includes/ui-js-config.php:301
+msgid "Saved"
+msgstr "Disimpan"
+
+#: includes/ui-js-config.php:299
+msgid "Saving..."
+msgstr "Simpan..."
+
+#: includes/ui-js-config.php:281
+msgid "This field is required."
+msgstr "Bidang-input ini wajib diisi."
+
+#: includes/ui-js-config.php:252
+msgid "Please enter at least one tag before saving."
+msgstr "Mohon masukkan setidaknya satu tag sebelum menyimpan."
+
+#: includes/ui-js-config.php:241
+msgid "Save Row"
+msgstr "Simpan Baris"
+
+#: includes/ui-js-config.php:240
+msgid "Save Module"
+msgstr "Simpan Modul"
+
+#: includes/ui-js-config.php:239
+msgid "Save Column"
+msgstr "Simpan Kolom"
+
+#: includes/ui-js-config.php:238
+msgid "Save As..."
+msgstr "Simpan Sebagai..."
+
+#: includes/ui-js-config.php:235
+msgid "Row Saved!"
+msgstr "Baris Tersimpan!"
+
+#. translators: %s: author name
+#: includes/ui-js-config.php:232
+msgctxt "%s is the author name."
+msgid "By %s"
+msgstr "Oleh %s"
+
+#. translators: %s: time diff - 1 day/2 weeks
+#: includes/ui-js-config.php:230
+msgctxt "%s is a time diff such as 1 day or 2 weeks."
+msgid "%s ago"
+msgstr "%s lalu"
+
+#: classes/class-fl-builder.php:1241 includes/ui-js-config.php:228
+msgid "Are you sure?"
+msgstr "Anda Yakin?"
+
+#. translators: %s: preset color code
+#: includes/ui-js-config.php:225
+msgctxt "%s is the preset hex color code."
+msgid "%s added to presets!"
+msgstr "%s ditambahkan pada preset!"
+
+#: includes/ui-js-config.php:221
+msgid "Paste color here..."
+msgstr "Tempel warna disini..."
+
+#: includes/ui-js-config.php:212
+msgid "No saved modules found."
+msgstr "Tidak ada modul simpanan yang ditemukan."
+
+#: includes/ui-js-config.php:211
+msgid "No saved rows found."
+msgstr "Tidak ada baris simpanan yang ditemukan."
+
+#: includes/ui-js-config.php:209
+msgid "Add a color preset first."
+msgstr "Tambahkan preset warna terlebih dahulu."
+
+#: includes/ui-js-config.php:208
+msgid "Please enter a color first."
+msgstr "Mohon masukkan warna terlebih dahulu."
+
+#: includes/ui-js-config.php:204
+msgid "Module Saved!"
+msgstr "Modul Disimpan!"
+
+#: includes/ui-js-config.php:196
+msgctxt "Indicator for global node templates."
+msgid "Global"
+msgstr "Global"
+
+#: includes/ui-js-config.php:192
+msgid "Field Loading..."
+msgstr "Bidang Dimuat..."
+
+#: includes/ui-js-config.php:180 includes/ui-js-templates.php:21
+#: includes/ui-js-templates.php:64 includes/ui-js-templates.php:180
+msgid "Duplicate"
+msgstr "Duplikasi"
+
+#: includes/ui-js-config.php:179
+msgid "Save Changes and Exit"
+msgstr "Simpan Perubahan dan Keluar"
+
+#: includes/ui-js-config.php:176
+msgid "Discard Changes and Exit"
+msgstr "Abaikan Perubahan dan Keluar"
+
+#: includes/ui-js-config.php:160
+msgid "Save With Errors"
+msgstr "Tersimpan Namun Ada Galat"
+
+#: includes/ui-js-config.php:159
+msgid "Fix Errors"
+msgstr "Perbaiki Galat"
+
+#: includes/ui-js-config.php:157
+msgid "This code has errors. We recommend you fix them before saving."
+msgstr "Kode ini memiliki galat. Kami merekomendasikan agar diperbaiki sebelum menyimpan."
+
+#: includes/ui-js-config.php:156
+msgid "Color Picker"
+msgstr "Pemilih Warna"
+
+#: includes/ui-js-config.php:155
+msgid "Color Presets"
+msgstr "Preset Warna"
+
+#: includes/ui-js-config.php:151
+msgid "Blank"
+msgstr "Blank"
+
+#. translators: %d: number of files selected (plural)
+#: includes/ui-js-config.php:150
+msgid "%d Audio Files Selected"
+msgstr "%d Berkas Audio Dipilih"
+
+#: includes/ui-js-config.php:148
+msgid "Audio Files Selected"
+msgstr "Berkas Audio Dipilih"
+
+#. translators: %d: number of files selected
+#: includes/ui-js-config.php:147
+msgid "%d Audio File Selected"
+msgstr "%d Berkas Audio Dipilih"
+
+#: includes/ui-js-config.php:145
+msgid "Audio File Selected"
+msgstr "Berkas Audio Dipilih"
+
+#. translators: %s: preset color code
+#: includes/ui-js-config.php:144
+msgctxt "%s is the preset hex color code."
+msgid "%s is already a saved preset."
+msgstr "%s sudah tersimpan sebagai preset."
+
+#: includes/ui-field-video.php:39
+msgid "Remove Video"
+msgstr "Hapus Video"
+
+#: includes/ui-field-multiple-audios.php:36
+msgid "Add Audio Files"
+msgstr "Tambah Berkas Audio"
+
+#: includes/ui-field-multiple-audios.php:35
+msgid "Edit Playlist"
+msgstr "Ubah Daftar-putar"
+
+#: includes/ui-field-multiple-audios.php:34 includes/ui-js-config.php:243
+msgid "Select Audio"
+msgstr "Pilih Audio"
+
+#: includes/ui-field-link.php:3
+msgctxt "Link placeholder"
+msgid "http://www.example.com"
+msgstr "http://www.example.com"
+
+#: includes/ui-bar.php:48
+msgid "Apply"
+msgstr "Terapkan"
+
+#: includes/ui-bar.php:11
+msgid "Publish"
+msgstr "Terpublikasi"
+
+#: includes/ui-bar.php:9 includes/ui-js-config.php:248
+msgid "Submit for Review"
+msgstr "Kirim untuk Ditinjau"
+
+#: includes/ui-bar.php:10
+msgid "Submit changes for review and exit"
+msgstr "Kirim perubahan untuk ditinjau lalu keluar"
+
+#: includes/ui-bar.php:12
+msgid "Publish changes and exit"
+msgstr "Publikasikan perubahan lalu keluar"
+
+#: includes/ui-bar.php:5
+msgid "Discard"
+msgstr "Abaikan"
+
+#: includes/ui-bar.php:6
+msgid "Discard changes and exit"
+msgstr "Abaikan perubahan lalu keluar"
+
+#: includes/strings.php:12
+msgid "Use an easy drag-and-drop builder to edit content on this page."
+msgstr "Gunakan builder seret-dan-taruh yang mudah untuk mengedit konten halaman ini."
+
+#: includes/row-settings.php:454
+msgid "Video URL (WebM)"
+msgstr "URL Video (WebM)"
+
+#: includes/row-settings.php:445
+msgid "Video URL (MP4)"
+msgstr "URL Video (MP4)"
+
+#: includes/row-settings.php:437 modules/video/video.php:342
+msgid "Video (WebM)"
+msgstr "Video (WebM)"
+
+#: includes/row-settings.php:428 modules/video/video.php:335
+msgid "Video (MP4)"
+msgstr "Video (MP4)"
+
+#: includes/row-settings.php:408
+msgid "YouTube or Vimeo"
+msgstr "YouTube atau Vimeo"
+
+#: includes/row-settings.php:73
+msgid "Full Height"
+msgstr "Ketinggian Penuh"
+
+#: classes/class-fl-builder-art.php:458 includes/row-settings.php:69
+msgid "Height"
+msgstr "Ketinggian"
+
+#: includes/row-settings.php:48
+msgid "Fixed Width"
+msgstr "Lebar Tetap"
+
+#. translators: %s: wporg docs link
+#: includes/module-settings.php:89
+msgid "Optional. Set the <a%s>capability</a> required for users to view this module."
+msgstr "Opsional. Atur <a%s>kapabilitas</a> yang dibutuhkan pengguna untuk melihat modul ini."
+
+#. translators: %s: an object like posts or taxonomie
+#: includes/loop-settings-matching.php:8
+msgctxt "%s is an object like posts or taxonomies."
+msgid "Match all related %s except..."
+msgstr "Samakan semua %s terkait kecuali..."
+
+#. translators: %s: an object like posts or taxonomie
+#: includes/loop-settings-matching.php:5
+msgctxt "%s is an object like posts or taxonomies."
+msgid "Match all %s except..."
+msgstr "Samakan semua %s kecuali..."
+
+#. translators: %s: an object like posts or taxonomie
+#: includes/loop-settings-matching.php:3
+msgctxt "%s is an object like posts or taxonomies."
+msgid "Match these %s..."
+msgstr "Samakan %s ini..."
+
+#: includes/global-settings.php:452 includes/layout-settings.php:26
+msgid "JavaScript"
+msgstr "JavaScript"
+
+#: classes/class-fl-builder-admin-posts.php:76 includes/global-settings.php:433
+#: includes/layout-settings.php:7
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/export-filters.php:4
+msgid "Export Selected"
+msgstr "Ekspor Pilihan"
+
+#: includes/export-filters.php:3
+msgid "Export All"
+msgstr "Ekspor Semua"
+
+#: classes/class-fl-builder-compatibility.php:627
+msgid "module"
+msgstr "modul"
+
+#: classes/class-fl-builder-compatibility.php:627
+msgid "SAFEMODE"
+msgstr "SAFEMODE"
+
+#: includes/column-settings.php:548 includes/module-settings.php:110
+#: includes/row-settings.php:896
+msgid "HTML Element"
+msgstr "Elemen HTML"
+
+#. translators: %s: wporg docs link
+#: includes/column-settings.php:527
+msgid "Optional. Set the <a%s>capability</a> required for users to view this column."
+msgstr "Opsional. Atur <a%s>kapabilitas</a> yang dibutuhkan pengguna untuk melihat kolom ini."
+
+#: includes/column-settings.php:525 includes/module-settings.php:87
+#: includes/row-settings.php:873
+msgid "User Capability"
+msgstr "Kapabilitas Pengguna"
+
+#: includes/column-settings.php:472 includes/module-settings.php:47
+#: includes/row-settings.php:833
+msgid "Visibility"
+msgstr "Visibilitas"
+
+#: includes/column-settings.php:499
+msgid "Reversed"
+msgstr "Terbalik"
+
+#: includes/column-settings.php:494
+msgid "Stacking Order"
+msgstr "Urutan Penumpukan"
+
+#: includes/column-settings.php:390 includes/module-settings.php:9
+#: includes/row-settings.php:757 includes/ui-field-typography.php:235
+msgid "Spacing"
+msgstr "Jejarak"
+
+#: includes/admin-settings-welcome.php:111
+msgid "The fastest way to find an answer to a question is to see if someone's already answered it!"
+msgstr "Cara tercepat untuk memperoleh jawaban adalah melihat apakah orang lain sudah menyawab pertanyaan tersebut!"
+
+#: includes/admin-settings-welcome.php:109
+msgid "We take pride in offering outstanding support."
+msgstr "Kami bangga memberikan layanan dukungan yang sangat baik."
+
+#. translators: 1: blog post url: 2: changelog url
+#: includes/admin-settings-welcome.php:101
+msgid "There's a whole lot more, too! Read about everything else on our <a href=\"%1$s\" target=\"_blank\">update post</a> or <a href=\"%2$s\" target=\"_blank\">change logs</a>."
+msgstr "Masih ada lebih banyak lagi! Baca tentang hal lainya pada <a href=\"%1$s\" target=\"_blank\">artikel pembaruan</a> kami, atau pada <a href=\"%2$s\" target=\"_blank\">log perubahan</a>."
+
+#: includes/admin-settings-welcome.php:48
+msgid "Join the Community"
+msgstr "Bergabung dengan Komunitas"
+
+#: includes/admin-settings-welcome.php:38
+msgid "Getting Started - Building your first page."
+msgstr "Memulai - Bangun halaman pertama anda."
+
+#: includes/admin-settings-welcome.php:33
+msgid "Be sure to add your license key for access to updates and new features."
+msgstr "Jangan lupa memasukkan kunci lisensi anda untuk akses pembaharuan dan fitur baru."
+
+#: includes/admin-settings-welcome.php:27
+msgid "Thank you for choosing Beaver Builder and welcome to the colony! Find some helpful information below. Also, to the left are the Page Builder settings options."
+msgstr "Terima kasih anda sudah memilih Beaver Builder dan selamat datang di koloni! Temukan berbagai informasi yang membantu dibawah. Juga, di sebelah kiri adalah opsi seting Builder Halaman."
+
+#: includes/admin-settings-welcome.php:23
+msgid "Welcome to Beaver Builder!"
+msgstr "Selamat datang di Beaver Builder!"
+
+#: includes/admin-settings-user-access.php:39
+msgid "Save User Access Settings"
+msgstr "Simpan Seting Akses Pengguna"
+
+#: includes/admin-settings-user-access.php:5
+msgid "Use these settings to limit which builder features users can access."
+msgstr "Gunakan seting ini untuk membatasi fitur builder mana yang dapat diakses oleh pengguna."
+
+#: includes/admin-settings-user-access.php:4
+msgid "User Access Settings"
+msgstr "Seting Akses Pengguna"
+
+#: includes/admin-settings-upgrade.php:14
+msgid "Build your own custom modules."
+msgstr "Buat sendiri modul custom anda."
+
+#: includes/admin-settings-upgrade.php:10
+msgid "Additional modules: Contact Form, Tabs, Slider, Pricing Table, Map, Blog Posts, Subscribe Form, Social Icons, and many more."
+msgstr "Modul tambahan: Form Kontak, Tab, Slider, Tabel Harga, Peta, Artikel Blog, Form Pendaftaran, Ikon Sosial, dan banyak lagi."
+
+#: includes/admin-settings-upgrade.php:7
+msgid "Premium Features"
+msgstr "Fitur Premium"
+
+#: includes/admin-settings-upgrade.php:3
+msgid "Get More Features"
+msgstr "Ambil Fitur Lanjutan"
+
+#: includes/admin-settings-tools.php:169
+msgid "If enabled we will send anonymous usage stats to help improve the plugin."
+msgstr "Jika diaktifkan kami akan mengirim statistik penggunaan anonim untuk membantu peningkatan plugin."
+
+#: includes/admin-settings-tools.php:167
+msgid "Send Usage Data"
+msgstr "Kirim Data Pemakaian"
+
+#: includes/admin-settings-js-config.php:13
+msgid "Select All"
+msgstr "Pilih Semua"
+
+#: includes/admin-settings-js-config.php:12
+msgid "Selected"
+msgstr "Pilihan"
+
+#: includes/admin-settings-js-config.php:11
+msgid "Select..."
+msgstr "Pilih..."
+
+#: includes/admin-settings-js-config.php:9
+msgid "Deselect All"
+msgstr "Tidak Pilih Semua"
+
+#. translators: %s: post type name
+#: includes/admin-posts.php:17
+msgctxt "%s stands the post type name."
+msgid "View %s"
+msgstr "Tampilan %s"
+
+#: extensions/fl-builder-cache-helper/includes/admin-settings-cache-plugins.php:42
+msgid "Save Cache Clearing Tool Settings"
+msgstr "Simpan Pengaturan Peralatan Pembersihan Singgahan (Cache)"
+
+#: extensions/fl-builder-cache-helper/includes/admin-settings-cache-plugins.php:11
+msgid "This tool applies to caches created by the following:"
+msgstr "Alat ini berlaku untuk singgahan (cache) yang dibuat oleh:"
+
+#: extensions/fl-builder-cache-helper/includes/admin-settings-cache-plugins.php:7
+msgid "Cache Clearing Tool"
+msgstr "Alat Pembersih Singgahan (Cache)"
+
+#: modules/widget/includes/settings-text-widget.php:10
+msgid "Title:"
+msgstr "Judul:"
+
+#: modules/photo/photo.php:689
+msgctxt "Photo Crop."
+msgid "None"
+msgstr "Tidak-ada"
+
+#: modules/audio/audio.php:181
+msgid "Show Thumbnail"
+msgstr "Tampilkan Gambar Seujung-kuku"
+
+#: modules/audio/audio.php:84 modules/audio/audio.php:109
+#: modules/button/button.php:241 modules/button/button.php:258
+#: modules/heading/heading.php:178 modules/icon/icon.php:80
+#: modules/photo/photo.php:639
+msgid "Link"
+msgstr "Tautan"
+
+#: includes/updater/includes/subscriptions.php:49
+msgid "The following downloads are currently available for remote update with the subscription(s) associated with this license."
+msgstr "Unduhan-unduhan berikut ini tersedia untuk pembaharuan jarak jauh dengan langganan terasosiasi dengan lisensi ini."
+
+#. translators: %s: link to license tab
+#: includes/updater/classes/class-fl-updater.php:475
+msgid "Please enter a valid license key to enable automatic updates. %s"
+msgstr "Harap masukkan kunci lisensi yang valid untuk mengaktifkan pembaruan otomatis. %s"
+
+#: includes/updater/classes/class-fl-updater.php:458
+msgid "Please enter a valid license key to enable automatic updates."
+msgstr "Mohon masukkan kunci lisensi yang valid untuk mengaktifkan pembaruan otomatis."
+
+#: includes/ui-loop-settings-filter.php:38 includes/ui-loop-settings.php:39
+msgid "Main Query"
+msgstr "Kueri Utama"
+
+#: includes/ui-js-templates.php:70 includes/ui-js-templates.php:182
+msgid "Edit Column"
+msgstr "Sunting Kolom"
+
+#: includes/ui-js-config.php:303
+msgid "Edited"
+msgstr "Tersunting"
+
+#: includes/ui-js-config.php:247
+msgid "These settings have errors. Please correct them before continuing."
+msgstr "Pengaturan ini memiliki galat. Mohon diperbaiki sebelum melanjutkan."
+
+#: modules/video/video.php:343
+msgid "A video in the WebM format to use as fallback. This format is required to support browsers such as FireFox and Opera."
+msgstr "Video dalam format WebM digunakan sebagai alternatif kembali. Format ini digunakan untuk medukung browser seperti FireFox dan Opera."
+
+#: modules/audio/audio.php:19
+msgid "Render a WordPress audio shortcode."
+msgstr "Buat sebuah pemintas untuk audio WordPress"
+
+#: includes/updater/includes/form.php:19
+msgid "UPDATES UNAVAILABLE! Your subscription is active but this domain has been deactivated. Please reactivate this domain in your account to enable automatic updates."
+msgstr "PEMBARUAN TIDAK TERSEDIA! Langganan Anda aktif tapi domain ini telah dideaktivasi. Mohon aktivasi ulang domain ini pada akun Anda untuk mengaktifkan pembaruan otomatis."
+
+#: includes/updater/includes/form.php:6
+msgid "ERROR! We were unable to connect to the update server. If the issue persists, please contact your host and let them know your website cannot connect to updates.wpbeaverbuilder.com."
+msgstr "GALAT! Kami tidak berhasil terkoneksi dengan server pembaruan. Bila masalah berulang terus, mohon kontak hosting Anda dan beritakan bahwa website Anda tidak dapat terhubung dengan URL: updates.wpbeaverbuilder.com."
+
+#: includes/ui-js-config.php:311
+msgid "Your changes are saved"
+msgstr "Perubahan Anda sudah disimpan"
+
+#: includes/updater/classes/class-fl-updater.php:402
+msgid "You submitted an invalid license. Non alphanumeric characters found."
+msgstr "Anda memasukkan lisensi yang salah. Ditemukan karakter non-alfanumerik."
+
+#: includes/ui-js-templates.php:1160
+msgid "You haven't saved any revisions yet. Each time you publish a new revision will be saved here."
+msgstr "Anda belum menyimpan revisi. Setiap Anda melakukan publikasi, revisi baru akan disimpan disini."
+
+#: includes/ui-js-config.php:175
+msgid "WARNING! You are about to delete a global template that may be linked to other pages. Do you really want to delete this template and unlink it?"
+msgstr "PERINGATAN! Anda akan menghapus pola global yang mungkin dibutuhkan pada halaman lain. Apakah Anda benar-benar ingin menghapus pola ini dan menghapus koneksinya?"
+
+#: includes/ui-bar-title-area.php:13
+msgid "Toggle Main Menu"
+msgstr "Beralih Main Menu"
+
+#: includes/ui-js-config.php:305
+msgid "This layout has unpublished changes. If you discard this draft all of your previously unpublished changes will be lost."
+msgstr "Tata letak ini memiliki perubahan yang belum dipublikasikan. Bila Anda menutup konsep ini, seluruh perubahan yang belum dipublikasikan akan hilang."
+
+#: includes/admin-settings-welcome.php:50
+msgid "There's a wonderful community of \"Beaver Builders\" out there and we'd love it if <em>you</em> joined us!"
+msgstr "Terdapat komunitas \"Beaver Builders\" diluar sana dan kami sangat senang bila <em>Anda</em> bergabung dengan kami!"
+
+#. translators: %s: extension type
+#: classes/class-fl-builder.php:4101
+msgid "The uploaded file is not a valid %s extension."
+msgstr "Berkas yang diunggah bukan ekstensi %s yang valid."
+
+#: includes/ui-js-config.php:274
+msgid "The Tools button lets you save a template, duplicate a layout, edit the settings for a layout or edit the global settings."
+msgstr "Pada tombol Peralatan, Anda dapat menyimpan tata letak, menduplikasi tata letak, merubah pengaturan tata letak, atau merubah pengaturan global."
+
+#: includes/column-settings.php:495
+msgid "The order of the columns in this group when they are stacked for small devices."
+msgstr "Urutan kolom pada grup ini saat tertumpuk pada tampilan gawai kecil."
+
+#: includes/ui-js-config.php:302
+msgid "The layout is saved"
+msgstr "Tata letak telah disimpan"
+
+#: includes/ui-js-config.php:300
+msgid "The layout is currently being saved"
+msgstr "Tata letak sedang disimpan"
+
+#: includes/strings.php:8
+msgid "The Beaver Builder Booster plugin is not compatible with your host."
+msgstr "Plugin Beaver Builder Booster tidak kompatibel dengan hosting Anda."
+
+#: includes/column-settings.php:50
+msgid "Setting this to yes will make all of the columns in this group the same height regardless of how much content is in each of them."
+msgstr "Pengaturan \"ya\" akan membuat semua kolom pada grup ini menjadi sama tinggi terlepas dari berapa banyak konten didalamnya."
+
+#: includes/admin-settings-upgrade.php:13
+msgid "Save, export, and reuse full-page layouts, rows, and modules."
+msgstr "Simpan, ekspor, dan pakai-ulang tata letak halaman-penuh, baris, dan modul-modul."
+
+#: includes/ui-js-templates.php:990 includes/ui-js-templates.php:1126
+msgctxt "Upgrade message that displays in the templates tab in lite installs."
+msgid "Save and reuse your layouts or kick-start your creativity with dozens of professionally designed templates."
+msgstr "Simpan dan gunakan kembali tata letak anda atau mulai kreatifitas Anda dengan lusinan pola yang di disain secara profesional."
+
+#: includes/ui-js-templates.php:1156
+msgid "Revisions are disabled for this site. Please contact your host if you aren't sure how to enable revisions."
+msgstr "Revisi tidak aktif untuk situs ini. Mohon kontak hosting Anda bila Anda tidak tahu cara mengaktifkan fitur revisi."
+
+#. translators: %s: wporg docs link
+#: includes/row-settings.php:875
+msgid "Optional. Set the <a%s>capability</a> required for users to view this row."
+msgstr "Opsional. Atur <a%s>kapabilitas</a> yang dibutuhkan pengguna untuk melihat baris ini."
+
+#: includes/admin-settings-js-config.php:10
+msgid "None Selected"
+msgstr "Tidak Ada yang Dipilih"
+
+#: includes/admin-settings-welcome.php:107
+msgid "Need Some Help?"
+msgstr "Butuh Bantuan?"
+
+#: includes/column-settings.php:510 includes/module-settings.php:72
+#: includes/row-settings.php:858
+msgid "Logged Out User"
+msgstr "Pengguna Keluar"
+
+#: includes/column-settings.php:511 includes/module-settings.php:73
+#: includes/row-settings.php:859
+msgid "Logged In User"
+msgstr "Pengguna Masuk"
+
+#. translators: %s: subscribe link
+#: includes/updater/classes/class-fl-updater.php:498
+msgid "Please subscribe to enable automatic updates for this plugin. %s"
+msgstr "Silahkan mendaftar untuk mengaktifkan pembaruan otomatis untuk plugin ini. %s"
+
+#: includes/layout-settings.php:4 includes/ui-js-config.php:185
+msgid "Layout CSS / Javascript"
+msgstr "Tata Letak CSS / Javascript"
+
+#: includes/strings.php:14
+msgid "Launch Page Builder"
+msgstr "Buka Builder Halaman"
+
+#: includes/ui-bar.php:8
+msgid "Keep changes drafted and exit"
+msgstr "Biarkan perubahan tetap sebagai konsep, lalu keluar"
+
+#. translators: %s: support url
+#: includes/admin-settings-welcome.php:121
+msgid "If you can't find an answer, feel free to <a href=\"%s\" target=\"_blank\">send us a message with your question.</a>"
+msgstr "Bila Anda tidak dapat menemukan jawaban, silahkan <a href=\"%s\" target=\"_blank\">kirim pesan pada kami berisi pertanyaan anda.</a>"
+
+#. translators: %s: upgrade url
+#: includes/admin-settings-welcome.php:118
+msgid "If you can't find an answer, consider upgrading to a premium version of Beaver Builder. Our expert support team is waiting to answer your questions and help you build your website. <a href=\"%s\" target=\"_blank\">Learn More</a>."
+msgstr "Bila Anda tidak dapat menemukan jawaban, pertimbangkan meningkatkan ke versi premium dari Beaver Builder. Dukunga tim pakar kami menunggu untuk menjawab pertanyaan Anda dan siap membantu Anda membangun situs web. <a href=\"%s\" target=\"_blank\">Pelajari Lebih Lajut</a>."
+
+#: includes/admin-settings-upgrade.php:11
+msgid "Expert support from our world-class support team."
+msgstr "Dukungan pakar dari tim pendukung kelas dunia kami."
+
+#. translators: %s: upgrade url
+#: includes/admin-settings-welcome.php:31
+msgid "For more time-saving features and access to our expert support team, <a href=\"%s\" target=\"_blank\">upgrade today</a>."
+msgstr "Untuk fitur hemat waktu dan akses ke dukungan tim pakar kami, <a href=\"%s\" target=\"_blank\">mutakhirkan hari ini</a>."
+
+#: includes/ui-loop-settings-filter.php:134 includes/ui-loop-settings.php:129
+msgid "Exclude the current post from the query."
+msgstr "Eksklusikan artikel ini dari selisik."
+
+#: includes/admin-settings-tools.php:56
+msgid "Enable Debug Mode"
+msgstr "Aktifkan Mode Selisik (Debug)"
+
+#: includes/ui-js-templates.php:188
+msgid "Duplicate Column"
+msgstr "Duplikasi Kolom"
+
+#: includes/ui-js-config.php:173
+msgid "Do you really want to delete this row?"
+msgstr "Apakah Anda benar-benar ingin menghapus baris ini?"
+
+#: includes/ui-js-config.php:172
+msgid "Do you really want to delete this module?"
+msgstr "Apakah Anda benar-benar ingin menghapus modul ini?"
+
+#: includes/ui-js-config.php:170
+msgid "Do you really want to delete this column?"
+msgstr "Apakah Anda benar-benar ingin menghapus kolom ini?"
+
+#: includes/admin-settings-tools.php:56
+msgid "Disable Debug Mode"
+msgstr "Non-aktifkan Mode Selisik (Debug)"
+
+#: includes/admin-settings-tools.php:154
+msgid "Disable"
+msgstr "Nonaktifkan"
+
+#: includes/admin-settings-tools.php:35
+msgid "Debug Mode Enabled"
+msgstr "Mode Selisik (Debug) Aktif"
+
+#: includes/ui-loop-settings-filter.php:37
+#: includes/ui-loop-settings-filter.php:57 includes/ui-loop-settings.php:38
+#: includes/ui-loop-settings.php:55
+msgid "Custom Query"
+msgstr "Query Ragam"
+
+#: includes/admin-settings-tools.php:43
+msgid "Copy this unique URL and send it to support as directed."
+msgstr "Salin URL unik ini dan kirim pada layanan dukungan sesuai petunjuk."
+
+#: includes/ui-bar.php:42
+msgid "Continue Editing"
+msgstr "Lanjutkan Penyuntingan"
+
+#: includes/admin-settings-upgrade.php:17
+msgid "Come by the Beaver Builder Homepage to learn more about what our premium features can do for you!"
+msgstr "Datanglah ke Beranda Beaver Builder untuk mempelajari lebih lanjut apa yang bisa dilakukan fitur premium kami untuk Anda!"
+
+#. translators: %s: singular label
+#: includes/strings.php:10
+msgctxt "%s is the singular post type name (e.g. page)"
+msgid "Click here to edit content on this %s using an easy drag-and-drop builder."
+msgstr "Klik disini untuk menyunting konten dari %s ini menggunakan builder seret-dan-taruh yang mudah."
+
+#: includes/admin-settings-upgrade.php:12
+msgid "Beautiful pre-made layout templates."
+msgstr "Pola tata letak jadi yang indah."
+
+#: includes/admin-settings-welcome.php:59
+msgid "Come by and share a project, ask a question, or just say hi! For news about new features and updates, like our <a href=\"https://www.facebook.com/wpbeaverbuilder/\" target=\"_blank\">Facebook Page</a> or follow us <a href=\"https://twitter.com/beaverbuilder\" target=\"_blank\">on Twitter</a>."
+msgstr "Kunjungi dan bagikan proyek, silakan bertanya atau sekedar say hi! Untuk berita tentang fitur dan pembaruan, sukai <a href=\"https://www.facebook.com/wpbeaverbuilder/\" target=\"_blank\">Halaman Facebook</a> kami, atau ikuti kami <a href=\"https://twitter.com/beaverbuilder\" target=\"_blank\">pada Twitter</a>."
+
+#: includes/admin-settings-upgrade.php:5
+msgid "Along with access to our expert support team, the premium versions of Beaver Builder are packed with more features to save you time and make building websites easier!"
+msgstr "Selain akses ke tim pakar pendukung, versi premium Beaver Builder juga dilengkapi dengan banya fitur yang membuat Anda lebih hemat waktu dan membangun situs web dengan lebih mudah!"
+
+#: includes/row-settings.php:438 includes/row-settings.php:455
+msgid "A video in the WebM format to use as the background of this row. This format is required to support browsers such as FireFox and Opera."
+msgstr "Video dalam format WebM untuk digunakan sebagai latar belakang baris ini. Format ini dibutuhkan untuk mendukung browser seperti FireFox dan Opera."
+
+#: includes/row-settings.php:446
+msgid "A video in the MP4 to use as the background of this row. Most modern browsers support this format."
+msgstr "Video dalam format MP4 untuk digunakan sebagai latar belakang baris ini. Kebanyakan browser mendukung format ini."
+
+#: includes/row-settings.php:429
+msgid "A video in the MP4 format to use as the background of this row. Most modern browsers support this format."
+msgstr "Video dalam format MP4 untuk digunakan sebagai latar belakang baris ini. Kebanyakan browser moderen mendukung format ini."
+
+#: includes/global-settings.php:8
+msgid "<strong>Note</strong>: These settings apply to all posts and pages."
+msgstr "<strong>Catatan</strong>: Pengaturan ini berlaku untuk semua artikel dan halaman."
+
+#. translators: %s: module name
+#: includes/ui-js-templates.php:169 includes/ui-js-templates.php:172
+msgid "%s Settings"
+msgstr "Pengaturan %s "
+
+#: includes/updater/classes/class-fl-updater.php:473
+#: includes/updater/includes/form.php:72
+msgid "Enter License Key"
+msgstr "Masukkan Kunci Lisensi"
+
+#: includes/ui-loop-settings-filter.php:206 includes/ui-loop-settings.php:195
+msgid "Enter a list of authors usernames."
+msgstr "Masukkan daftar nama-pengguna penulis."
+
+#. translators: %s: type label
+#. translators: %s: tax label
+#: includes/ui-loop-settings-filter.php:165
+#: includes/ui-loop-settings-filter.php:192 includes/ui-loop-settings.php:153
+#: includes/ui-loop-settings.php:181 includes/ui-simple-loop.php:101
+#: includes/ui-simple-loop.php:130
+msgid "Enter a list of %1$s."
+msgstr "Masukkan daftar %1$s."
+
+#: includes/ui-js-config.php:189
+msgid "Error! Please enter a valid year."
+msgstr "Galat! Harap masukkan tahun yang valid."
+
+#: includes/ui-js-config.php:188
+msgid "Error! Please enter a valid month."
+msgstr "Galat! Harap masukkan bulan yang valid."
+
+#: includes/ui-js-config.php:187
+msgid "Error! Please enter a valid day."
+msgstr "Galat! Harap masukkan hari yang valid."
+
+#: includes/ui-js-config.php:167
+msgid "Error! Please enter a date that is in the future."
+msgstr "Galat! Harap masukkan hari di masa depan."
+
+#: includes/row-settings.php:472
+msgid "Enable Audio"
+msgstr "Aktifkan Audio"
+
+#: includes/admin-settings-tools.php:119 includes/admin-settings-tools.php:159
+msgid "Enable"
+msgstr "Aktifkan"
+
+#: extensions/fl-builder-cache-helper/includes/admin-settings-cache-plugins.php:33
+msgid "Enable proxy cache clearing"
+msgstr "Aktifkan pembersihan singgahan (cache) proksi"
+
+#: extensions/fl-builder-cache-helper/includes/admin-settings-cache-plugins.php:20
+msgid "Enable the Cache Clearing Tool"
+msgstr "Aktfkan Alat Pembersih Singgahan (Cache)"
+
+#: classes/class-fl-builder.php:1636
+msgctxt "Keyboard action to dismiss the current task or panel"
+msgid "Dismiss Active Panel"
+msgstr "Tutup Panel Aktif"
+
+#: classes/class-fl-builder.php:1631
+msgctxt "Keyboard action to publish any pending changes"
+msgid "Publish changes without leaving builder"
+msgstr "Publikasikan perubahan tanpa meninggalkan builder"
+
+#: classes/class-fl-builder.php:1626
+msgctxt "Keyboard action to save changes"
+msgid "Save Layout"
+msgstr "Simpan Tata-letak"
+
+#: classes/class-fl-builder.php:1621
+msgctxt "Keyboard action to open the module search panel"
+msgid "Display Module Search"
+msgstr "Tampilkan Pencari Modul"
+
+#: classes/class-fl-builder.php:1613
+msgctxt "Keyboard action to open the global settings panel"
+msgid "Open Global Settings"
+msgstr "Buka Pengaturan Global"
+
+#: classes/class-fl-builder.php:1600
+msgctxt "Keyboard action to open save template form"
+msgid "Save New Template"
+msgstr "Simpan Pola Baru"
+
+#: classes/class-fl-builder.php:1595
+msgctxt "Keyboard action to show saved tab"
+msgid "Open Saved Tab"
+msgstr "Buka Tab yang Disimpan"
+
+#: classes/class-fl-builder.php:1591
+msgctxt "Keyboard action to show templates tab"
+msgid "Open Templates Tab"
+msgstr "Buka Tab Pola"
+
+#: classes/class-fl-builder.php:1587
+msgctxt "Keyboard action to show rows tab"
+msgid "Open Rows Tab"
+msgstr "Buka Tab Baris"
+
+#: classes/class-fl-builder.php:1583
+msgctxt "Keyboard action to show modules tab"
+msgid "Open Modules Tab"
+msgstr "Buka Tab Modul"
+
+#: classes/class-fl-builder.php:1546
+msgid "View Knowledge Base"
+msgstr "Lihat Basis Pengetahuan"
+
+#: classes/class-fl-builder.php:1449 classes/class-fl-builder.php:1519
+msgid "Help"
+msgstr "Bantuan"
+
+#: classes/class-fl-builder.php:1442 classes/class-fl-builder.php:1465
+msgid "WordPress Admin"
+msgstr "Admin WordPress"
+
+#: classes/class-fl-builder.php:1436
+msgid "Change UI Brightness"
+msgstr "Ubah Kecerahan Antarmuka-Pengguna (UI)"
+
+#: classes/class-fl-builder.php:1417 includes/global-settings.php:4
+#: includes/ui-js-config.php:184
+msgid "Global Settings"
+msgstr "Pengaturan Global"
+
+#: classes/class-fl-builder.php:1351
+msgid "Unnamed Menu"
+msgstr "Menu Tak-bernama"
+
+#: classes/class-fl-builder-wpcli-command.php:75
+msgid "Rebuilt the theme cache"
+msgstr "Bangun kembali singgahan (cache) tema"
+
+#. translators: %s: current blog name
+#: classes/class-fl-builder-wpcli-command.php:66
+msgctxt "current blog name"
+msgid "Rebuilt the theme cache for blog %s"
+msgstr "Bangun kembali singgahan (cache) tema untuk blog %s"
+
+#: classes/class-fl-builder-wpcli-command.php:41
+msgid "--all switch used but bb-theme is not active. If using multisite bb-theme must be active on the root site."
+msgstr "--semua pilihan digunakan tetapi tema-bb tidak aktif. Bila menggunakan multi-situs tema-bb harus aktif pada situs induk (root site)."
+
+#. translators: %s: post type name
+#: classes/class-fl-builder-wp-blocks.php:95
+msgctxt "%s post type name."
+msgid "View %s"
+msgstr "Tampilan %s"
+
+#. translators: %s: branded builder name
+#: classes/class-fl-builder-wp-blocks.php:92
+msgctxt "%s branded builder name."
+msgid "Launch %s"
+msgstr "Buka %s"
+
+#. translators: %s: post type name
+#: classes/class-fl-builder-wp-blocks.php:87
+msgctxt "%s branded builder name."
+msgid "Convert to %s"
+msgstr "Konversi ke %s"
+
+#. translators: 1: branded builder name: 2: post type name
+#: classes/class-fl-builder-wp-blocks.php:85
+msgctxt "%1$s branded builder name. %2$s post type name."
+msgid "%1$s is currently active for this %2$s."
+msgstr "%1$s saat ini aktif untuk %2$s ini."
+
+#: classes/class-fl-builder-user-access.php:283
+msgid "Builder Access"
+msgstr "Akses Builder"
+
+#: classes/class-fl-builder-user-access.php:49
+msgid "Misc"
+msgstr "Lain-lain"
+
+#: classes/class-fl-builder-usage.php:229
+msgid "What kind of info will we collect?"
+msgstr "Jenis informasi apa yang akan kami kumpulkan?"
+
+#: classes/class-fl-builder-usage.php:220
+msgid "UI theme, pinned settings etc."
+msgstr "Tema Antarmuka-pengguna (UI), pengaturan tersemat, dsb."
+
+#: classes/class-fl-builder-usage.php:219
+msgid "Builder Settings"
+msgstr "Pengaturan Builder"
+
+#: classes/class-fl-builder-usage.php:216
+msgid "Which modules are used and how many times."
+msgstr "Modul mana yang digunakan dan berapa banyak."
+
+#: classes/class-fl-builder-usage.php:215
+msgid "Modules Used"
+msgstr "Modul Digunakan"
+
+#: classes/class-fl-builder-usage.php:211
+msgid "Plugins Count"
+msgstr "Jumlah Plugin-plugin"
+
+#: classes/class-fl-builder-usage.php:207
+msgid "Locale"
+msgstr "Lokale"
+
+#: classes/class-fl-builder-usage.php:203
+msgid "WP Multisite"
+msgstr "WP Multi-situs"
+
+#: classes/class-fl-builder-usage.php:199
+msgid "WP Version"
+msgstr "Versi WP"
+
+#: classes/class-fl-builder-usage.php:195
+msgid "PHP Version"
+msgstr "Versi PHP"
+
+#: classes/class-fl-builder-usage.php:191
+msgid "Server Type"
+msgstr "Tipe Server"
+
+#: classes/class-fl-builder-usage.php:97
+msgid "No, Thank You"
+msgstr "Tidak, Terima Kasih"
+
+#: classes/class-fl-builder-usage.php:96
+msgid "Sure, I'll help"
+msgstr "Tentu, Saya akan membantu"
+
+#: classes/class-fl-builder-ui-content-panel.php:86
+#: includes/ui-js-templates.php:400
+msgid "Standard Modules"
+msgstr "Modul-modul Standar"
+
+#: classes/class-fl-builder-timezones.php:120
+#: classes/class-fl-builder-timezones.php:125
+msgid "UTC"
+msgstr "KWU (UTC)"
+
+#: classes/class-fl-builder-timezones.php:75
+msgid "Select a city"
+msgstr "Pilih kota"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-sendy.php:209
+msgid "There was an error subscribing to Sendy. %s"
+msgstr "Ada galat pendaftaran ke Sendy. %s"
+
+#: classes/class-fl-builder-service-sendy.php:185
+msgid "There was an error subscribing to Sendy. The account is no longer connected."
+msgstr "Ada galat pendaftaran ke Sendy. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-sendy.php:136
+msgid "List ID"
+msgstr "Daftar ID"
+
+#. translators: %s: error code
+#: classes/class-fl-builder-service-ontraport.php:252
+msgid "There was an error subscribing to Ontraport. Code: %s"
+msgstr "Ada galat pendaftaran ke Ontraport. Kode: %s"
+
+#: classes/class-fl-builder-service-ontraport.php:225
+msgid "There was an error subscribing to Ontraport. The account is no longer connected."
+msgstr "Ada galat pendaftaran ke Ontraport. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-ontraport.php:196
+msgctxt "An email campaign from your Ontraport account."
+msgid "Campaign"
+msgstr "Kampanye"
+
+#: classes/class-fl-builder-service-ontraport.php:112
+msgid "APP ID"
+msgstr "APP ID"
+
+#: classes/class-fl-builder-service-ontraport.php:68
+msgid "Error: You must provide an APP ID."
+msgstr "Galat: Anda wajib memasukkan APP ID."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-mautic.php:281
+msgid "There was an error subscribing to Mautic. %s"
+msgstr "Ada galat pendaftaran ke Mautic. %s"
+
+#: classes/class-fl-builder-service-mautic.php:248
+msgid "There was an error subscribing to Mautic. The account is no longer connected."
+msgstr "Ada galat pendaftaran ke Mautic. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-mautic.php:152
+msgid "Mautic Password"
+msgstr "Kata-kunci Mautic"
+
+#: classes/class-fl-builder-service-mautic.php:141
+msgid "Mautic Username"
+msgstr "Nama-pengguna Mautic"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-mailrelay.php:236
+msgid "There was an error subscribing to Mailrelay. %s"
+msgstr "Terjadi galat saat mendaftar ke Mailrelay. %s"
+
+#: classes/class-fl-builder-service-mailrelay.php:223
+msgid "There was an error subscribing to Mailrelay. The account is no longer connected."
+msgstr "Terjadi galat saat mendaftar ke Mailrelay. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-mailrelay.php:195
+msgctxt "A list of subscribers group from a Mailrelay account."
+msgid "Group"
+msgstr "Grup"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-mailpoet.php:222
+msgid "There was an error subscribing to MailPoet. %s"
+msgstr "Ada galat mendaftar ke MailPoet. %s"
+
+#: classes/class-fl-builder-service-mailerlite.php:196
+msgid "There was an error subscribing to MailerLite. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke MailerLite. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-mailerlite.php:168
+msgctxt "An email list from a third party provider."
+msgid "Group"
+msgstr "Grup"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-icontact-pro.php:313
+msgid "There was an error subscribing to iContact Pro. %s"
+msgstr "Ada galat saat mendaftar ke iContact Pro. %s"
+
+#: classes/class-fl-builder-service-icontact-pro.php:174
+msgid "Profile ID"
+msgstr "Profile ID"
+
+#: classes/class-fl-builder-service-icontact-pro.php:163
+msgid "Company ID"
+msgstr "ID Perusahaan"
+
+#: classes/class-fl-builder-service-icontact-pro.php:83
+msgid "Error: You must provide a company ID."
+msgstr "Galat: Anda harus memasukkan ID Perusahaan."
+
+#: classes/class-fl-builder-service-icontact-pro.php:85
+msgid "Error: You must provide a profile ID."
+msgstr "Galat: Anda harus memasukkan ID profil."
+
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:207
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:231
+msgid "There was an error subscribing to GoDaddy Email Marketing. The account is no longer connected."
+msgstr "Ada galat mendaftar ke GoDaddy Email Marketing. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:101
+msgid "The username associated with your GoDaddy Email Marketing account."
+msgstr "Nama-pengguna terasosiasi dengan akun GoDaddy Email Marketing anda."
+
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:100
+msgid "API Username"
+msgstr "Nama-penguna API"
+
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:67
+msgid "Error: You must provide an API username."
+msgstr "Galat: Anda harus memasukkan nama-pengguna API"
+
+#: classes/class-fl-builder-service-getresponse.php:172
+msgid "This should match the cycle day settings for the selected list's Autoresponder."
+msgstr "Ini seharusnya menyamai pengaturan perputaran hari untuk daftar Autoresponder yang dipilih."
+
+#: classes/class-fl-builder-service-getresponse.php:171
+msgctxt "Day of autoresponder cycle."
+msgid "Cycle Day"
+msgstr "Perputaran Hari"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-enormail.php:220
+msgid "There was an error subscribing to Enormail. %s"
+msgstr "Ada galat mendaftar ke Enormail. %s"
+
+#: classes/class-fl-builder-service-enormail.php:196
+msgid "There was an error subscribing to Enormail. The account is no longer connected."
+msgstr "Ada galat mendaftar ke Enormail. Akun tidak lagi terkoneksi."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-drip.php:348
+msgid "There was an error subscribing to Drip. %s"
+msgstr "Ada galat saat mendaftar ke Drip. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-drip.php:306
+msgid "There was an error searching contact from Drip. %s"
+msgstr "Ada galat saat mencari kontak dari Drip. %s"
+
+#: classes/class-fl-builder-service-drip.php:287
+msgid "There was an error subscribing to Drip. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke Drip. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-drip.php:223
+msgid "For multiple tags, separate with comma."
+msgstr "Untuk memasukkan beberapa tag, pisahkan dengan koma."
+
+#: classes/class-fl-builder-service-drip.php:222
+msgctxt "A tag to add to contacts in Drip when they subscribe."
+msgid "Tags"
+msgstr "Tags"
+
+#: classes/class-fl-builder-service-drip.php:197
+msgctxt "An email campaign from your GetDrip account."
+msgid "Campaign"
+msgstr "Kampanye"
+
+#: classes/class-fl-builder-service-drip.php:129
+msgid "Account ID"
+msgstr "ID Akun"
+
+#: classes/class-fl-builder-service-drip.php:117
+msgid "API Token"
+msgstr "Token API"
+
+#: classes/class-fl-builder-service-drip.php:67
+msgid "Error: You must provide an Account ID."
+msgstr "Galat: Anda harus memasukkan ID Akun."
+
+#: classes/class-fl-builder-service-drip.php:65
+#: classes/class-fl-builder-service-mailerlite.php:72
+msgid "Error: You must provide an API token."
+msgstr "Galat: Anda harus memasukkan token API."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-convertkit.php:207
+msgid "There was an error subscribing to ConvertKit. Error: %s"
+msgstr "Ada galat saat mendaftar ke ConvertKit. Galat: %s"
+
+#: classes/class-fl-builder-service-convertkit.php:189
+msgid "There was an error subscribing to ConvertKit. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke ConvertKit. Akun tidak lagi terkoneksi."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-campayn.php:284
+msgid "There was an error subscribing to Campayn. %s"
+msgstr "Ada galat saat mendaftar ke Campayn. %s"
+
+#: classes/class-fl-builder-service-campayn.php:236
+msgid "There was an error subscribing to Campayn. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke Campayn. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-campayn.php:207
+msgctxt "An email list from third party provider."
+msgid "List"
+msgstr "Daftar"
+
+#: classes/class-fl-builder-service-activecampaign.php:279
+#: classes/class-fl-builder-service-aweber.php:240
+msgid "A comma separated list of tags."
+msgstr "Daftar tag dipisahkan oleh koma."
+
+#: classes/class-fl-builder-service-activecampaign.php:278
+#: classes/class-fl-builder-service-aweber.php:239
+msgctxt "A comma separated list of tags."
+msgid "Tags"
+msgstr "Tags"
+
+#: classes/class-fl-builder-service-activecampaign.php:252
+msgctxt "An email list from ActiveCampaign."
+msgid "List"
+msgstr "Daftar"
+
+#: classes/class-fl-builder-service-activecampaign.php:183
+msgid "List"
+msgstr "Daftar"
+
+#: classes/class-fl-builder-service-activecampaign.php:180
+msgctxt "Select the list type."
+msgid "Type"
+msgstr "Tipe"
+
+#: classes/class-fl-builder-revisions.php:134
+#: classes/class-fl-builder-revisions.php:140
+msgid "Revisions"
+msgstr "Revisi"
+
+#: classes/class-fl-builder-privacy.php:22
+msgid "Beaver Builder Plugin"
+msgstr "Plugin Beaver Builder"
+
+#: classes/class-fl-builder-font-awesome.php:147
+#: classes/class-fl-builder-model.php:6918
+msgid "Beaver Builder"
+msgstr "Beaver Builder"
+
+#: classes/class-fl-builder-model.php:3297
+#: classes/class-fl-builder-model.php:3313
+msgid "Other"
+msgstr "Lainnya"
+
+#: classes/class-fl-builder-model.php:3295
+msgid "Posts"
+msgstr "Artikel"
+
+#: classes/class-fl-builder-model.php:3294
+msgid "Info"
+msgstr "info"
+
+#: classes/class-fl-builder-model.php:3292
+msgid "Actions"
+msgstr "Aksi"
+
+#: classes/class-fl-builder-model.php:3291 modules/icon/icon.php:15
+msgid "Media"
+msgstr "Media"
+
+#: classes/class-fl-builder-model.php:3290
+#: classes/class-fl-builder-module.php:387 modules/audio/audio.php:20
+#: modules/button/button.php:15 modules/heading/heading.php:16
+#: modules/html/html.php:15 modules/icon/icon.php:15 modules/photo/photo.php:26
+#: modules/rich-text/rich-text.php:15 modules/sidebar/sidebar.php:15
+#: modules/video/video.php:20
+msgid "Basic"
+msgstr "Dasar"
+
+#. translators: %s: plugins page link
+#: classes/class-fl-builder-loader.php:182
+msgid "You currently have two versions of Beaver Builder active on this site. Please <a href=\"%s\">deactivate one</a> before continuing."
+msgstr "Anda saat ini memiliki dua versi Beaver Builder yang aktif di situs ini. Mohon <a href=\"%s\">deaktifasi salah satu</a> sebelum melanjutkan."
+
+#: classes/class-fl-builder-importer.php:245
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Ini tidak terlihat seberti berkas WXR, nomor versi WXR hilang/invalid"
+
+#: classes/class-fl-builder-fonts.php:212
+#: classes/class-fl-builder-fonts.php:213
+msgid "Normal Italic"
+msgstr "Italik Normal"
+
+#: classes/class-fl-builder-fonts.php:211 includes/ui-field-typography.php:156
+#: includes/ui-field-typography.php:169
+msgid "Normal"
+msgstr "Normal"
+
+#: classes/class-fl-builder-fonts.php:209
+#: classes/class-fl-builder-fonts.php:210
+msgid "Light Italic"
+msgstr "Italic Ringan"
+
+#: classes/class-fl-builder-fonts.php:208 modules/audio/audio.php:149
+msgid "Light"
+msgstr "Ringan"
+
+#: classes/class-fl-builder-fonts.php:206
+#: classes/class-fl-builder-fonts.php:207
+msgid "Extra-Light Italic"
+msgstr "Italik Ekstra-Ringan"
+
+#: classes/class-fl-builder-fonts.php:205
+msgid "Extra-Light"
+msgstr "Ekstra-Ringan"
+
+#: classes/class-fl-builder-fonts.php:203
+#: classes/class-fl-builder-fonts.php:204
+msgid "Thin Italic"
+msgstr "Italik Tipis"
+
+#: classes/class-fl-builder-fonts.php:202
+msgid "Thin"
+msgstr "Tipis"
+
+#: classes/class-fl-builder-fonts.php:200
+msgid "Regular"
+msgstr "Reguler"
+
+#: classes/class-fl-builder-admin.php:273
+msgctxt "Plugin action link label."
+msgid "Change Log"
+msgstr "Log Perubahan"
+
+#. translators: 1: stars link: 2: link to wporg page
+#: classes/class-fl-builder-admin-settings.php:943
+msgid "Add your %1$s on %2$s to spread the love."
+msgstr "Tambahkan %1$s anda pada %2$s untuk menyebarkan cinta."
+
+#. translators: %s: unzip error message
+#: classes/class-fl-builder-admin-settings.php:612
+msgid "Unzip Error: %s"
+msgstr "Galat Unzip: %s"
+
+#: classes/class-fl-builder-admin-settings.php:270
+msgid "User Access"
+msgstr "Akses Pengguna"
+
+#: classes/class-fl-builder-admin-settings.php:245
+msgid "Welcome"
+msgstr "Selamat Datang"
+
+#: classes/class-fl-builder-service-icontact-pro.php:129
+msgid "Your iContact Pro username."
+msgstr "Nama-pengguna Anda untuk iContact Pro."
+
+#: classes/class-fl-builder-service-icontact-pro.php:175
+msgid "Your iContact Pro Profile ID."
+msgstr "Profile ID iContact Pro Anda."
+
+#: classes/class-fl-builder-service-icontact-pro.php:164
+msgid "Your iContact Pro Company ID."
+msgstr "ID perusahaan Anda pada iContact Pro."
+
+#: classes/class-fl-builder-service-icontact-pro.php:151
+msgid "Your iContact Pro app password."
+msgstr "Kata-kunci Anda untuk iContact Pro app."
+
+#: classes/class-fl-builder-service-icontact-pro.php:140
+msgid "Your iContact Pro app ID."
+msgstr "App ID Anda untuk iContact Pro."
+
+#. translators: 1: api link
+#: classes/class-fl-builder-service-icontact-pro.php:177
+msgid "Your Company and Profile ID can also be found in the <a%1$s>iContact Pro API settings</a> under Account Information."
+msgstr "Perusahaan Anda dan Profile ID dapat juga ditemukan di <a%1$s>Pengaturan API iContact Pro</a> dibawah Informasi Akun."
+
+#: classes/class-fl-builder-service-ontraport.php:113
+msgid "Your APP ID can be found in your Ontraport account."
+msgstr "ID APP Anda dapat ditemui di akun Ontraport."
+
+#. translators: %s: api url
+#: classes/class-fl-builder-service-drip.php:119
+msgid "Your API Token can be found in your Drip account under Settings > My User Settings. Or, you can click this <a%s>direct link</a>."
+msgstr "Token API dapat ditemukan di akun Drip anda, dibawah Setting > My User Settings. Atau, Anda dapat klik <a%s>tautan langsung</a> ini."
+
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:112
+msgid "Your API key from your GoDaddy Email Marketing account."
+msgstr "Kunci API Anda dari akun GoDadd Email Marketing."
+
+#: classes/class-fl-builder-service-ontraport.php:124
+msgid "Your API key can be found in your Ontraport account."
+msgstr "Kunci API Anda dapat diperoleh pada akun Ontraport."
+
+#: classes/class-fl-builder-service-mailrelay.php:128
+msgid "Your API key can be found in your Mailrelay account under Menu > Settings > API access."
+msgstr "Kunci API dapat ditemukan di akun Mailrelay Anda, dibawah Menu > Settings > API access."
+
+#: classes/class-fl-builder-service-convertkit.php:97
+msgid "Your API key can be found in your ConvertKit account under Account > Account Settings > API Key."
+msgstr "Kunci API dapat ditemukan pada akun ConvertKit Anda, pada Account > Account Settings > API Key."
+
+#: classes/class-fl-builder-service-drip.php:130
+msgid "Your Account ID can be found in your Drip account under Settings > Site Setup."
+msgstr "Akun ID dapat ditemukan pada akun Drip Anda, dibawah Settungs > Site Setup."
+
+#. translators: %s: branded builder name
+#: classes/class-fl-builder-usage.php:103
+msgid "Would you like to help us improve %s by sending anonymous usage data?"
+msgstr "Maukah Anda membantu kami meningkatkan %s dengan mengirim data penggunaan anonim?"
+
+#: classes/class-fl-builder-usage.php:231
+msgid "We will never collect any private data such as IP, email addresses or usernames."
+msgstr "Kami tidak akan pernah mengumpulkan data pribadi seperti IP, alamat surel atau nama-pengguna."
+
+#: classes/class-fl-builder-service-mautic.php:142
+msgid "Username from your Mautic application. Make sure it has `Full system access`. Best practice would be to set up a new user for each external site."
+msgstr "Nama-pengguna dari aplikasi Mautic Anda. Pastikan ia memiliki `Akses sistem penuh`. Praktek terbaik adalah membuat pengguna baru untuk setiap situs eksternal."
+
+#: classes/class-fl-builder-wp-blocks.php:90
+msgid "Use Standard Editor"
+msgstr "Gunakan Penyunting Standar"
+
+#: classes/class-fl-builder.php:1575
+msgctxt "A keyboard shortcut with no label given"
+msgid "Untitled Shortcut"
+msgstr "Pintasan Tanpa Judul"
+
+#: classes/class-fl-builder-user-access.php:291
+msgid "Unrestricted Editing"
+msgstr "Sunting Tanpa Batasan"
+
+#: classes/class-fl-builder-model.php:5277
+#: classes/class-fl-builder-model.php:5318
+#: classes/class-fl-builder-model.php:5400
+#: classes/class-fl-builder-model.php:6687 includes/ui-js-config.php:288
+msgid "Uncategorized"
+msgstr "Tidak dikategorikan"
+
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:75
+msgid "Unable to connect to GoDaddy Email Marketing. Please check your credentials."
+msgstr "Tidak dapat terkoneksi ke GoDaddy Email Marketing. Mohon periksa kredensial Anda."
+
+#: classes/class-fl-builder-fonts.php:226
+msgid "Ultra-Bold"
+msgstr "Ultra-Tegas"
+
+#: classes/class-fl-builder-fonts.php:227
+#: classes/class-fl-builder-fonts.php:228
+msgid "Ultra-Bold Italic"
+msgstr "Italik Ultra-Tegas"
+
+#: classes/class-fl-builder.php:1605
+msgctxt "Keyboard action to toggle preview mode"
+msgid "Toggle Preview Mode"
+msgstr "Beralih Moda Pratinjau"
+
+#: classes/class-fl-builder-service-sendy.php:115
+msgid "The URL where your Sendy application is installed (e.g. http://mywebsite.com/sendy)."
+msgstr "URL dimana aplikasi Sendy Anda terinstal (contoh: http://mywebsite.com/sendy)."
+
+#: classes/class-fl-builder-service-mautic.php:129
+msgid "The URL where your Mautic application is installed (e.g. http://mautic.mywebsite.com)."
+msgstr "URL dimana aplikasi Mautic Anda terinstall (contoh: http://mautic.mywebsite.com)."
+
+#: classes/class-fl-builder-user-access.php:292
+msgid "The selected roles will have unrestricted access to all editing features within the builder."
+msgstr "Peran yang dipilih akan memperoleh akses tanpa batas ke semua fitur penyuntingan pada builder."
+
+#: classes/class-fl-builder-user-access.php:284
+msgid "The selected roles will have access to the builder for editing posts, pages, and CPTs."
+msgstr "Peran yang dipilih akan memiliki akses ke builder untuk melakukan penyuntingan artikel, halaman, dan tipe artikel ragam (CPT)."
+
+#. translators: %s: module alias key
+#: classes/class-fl-builder-model.php:3097
+msgctxt "%s stands for the module alias key"
+msgid "The module alias %s already exists! Please namespace your module aliases to ensure compatibility with Beaver Builder."
+msgstr "Alias modul %s sudah ada! Harap rangkai nama modul alias Anda untuk menjamin kompatibilitas dengan Beaver Builder."
+
+#: classes/class-fl-builder-service-sendy.php:137
+msgid "The ID of the list you would like users to subscribe to. The ID of a list can be found under \"View all lists\" in the section named ID."
+msgstr "Daftar ID kemana Anda ingin pengguna mendaftar. ID dari daftar dapat ditemukan dibawah \"Lihat semua daftar\" pada seksi bernama ID."
+
+#: classes/class-fl-builder-service-campayn.php:133
+msgid "The host you chose when you signed up for your account. Check your welcome email if you forgot it. Please enter it without the initial http:// (for example: demo.campayn.com)."
+msgstr "Nama domain yang Anda pilih saat mendaftarkan akun Anda. Periksa surel selamat datang bila Anda lupa. Harap masukkan tanpa inisial http:// (contoh: demo.campayn.com)."
+
+#: classes/class-fl-builder-service-mailrelay.php:117
+msgid "The host you chose when you signed up for your account. Check your welcome email if you forgot it. Please enter it without the initial http:// (e.g. demo.ip-zone.com)."
+msgstr "Nama domain yang Anda pilih saat mendaftar ke akun Anda. Periksa surel selamat datang bila Anda lupa. Harap masukkan tanpa awalan http:// (mis: demo.ip-zone.com)."
+
+#: classes/class-fl-builder.php:1538
+msgid "Take A Tour"
+msgstr "Lakukan Wisata Belajar"
+
+#: classes/class-fl-builder-fonts.php:218
+#: classes/class-fl-builder-fonts.php:219
+msgid "Semi-Bold Italic"
+msgstr "Semi-Tegas Italik"
+
+#: classes/class-fl-builder-fonts.php:217
+msgid "Semi-Bold"
+msgstr "Semi-Tegas"
+
+#: classes/class-fl-builder.php:1617
+msgctxt "Keyboard action to open the layout settings panel"
+msgid "Open Layout Settings"
+msgstr "Pengaturan Tata Letak Terbuka"
+
+#: classes/class-fl-builder.php:1392
+msgid "Preview Layout"
+msgstr "Pratinjau Tata Letak"
+
+#: classes/class-fl-builder-fonts.php:215
+#: classes/class-fl-builder-fonts.php:216
+msgid "Medium Italic"
+msgstr "Italik Sedang"
+
+#: classes/class-fl-builder.php:1410
+msgid "Layout CSS & Javascript"
+msgstr "Tata Letak CSS & JavaScript"
+
+#: classes/class-fl-builder-model.php:3293 modules/sidebar/sidebar.php:15
+msgid "Layout"
+msgstr "Tata Letak"
+
+#: includes/ui-js-config.php:322
+msgid "Landing Pages"
+msgstr "Halaman Arahan"
+
+#: classes/class-fl-builder.php:1456
+msgid "Keyboard Shortcuts"
+msgstr "Pemintas Papanketik"
+
+#: classes/class-fl-builder-fonts.php:201 includes/ui-field-typography.php:157
+msgid "Italic"
+msgstr "Italik"
+
+#: classes/class-fl-builder-service-mautic.php:128
+#: classes/class-fl-builder-service-sendy.php:114
+msgid "Installation URL"
+msgstr "URL Pemasangan"
+
+#. translators: %s: folder path
+#: classes/class-fl-builder-admin.php:134
+msgid "Install Error! We detected that Beaver Builder appears to be installed in a folder called <kbd>%s</kbd>.<br />For automatic updates to work the plugin must be installed in the folder <kbd>bb-plugin</kbd>."
+msgstr "Galat Pemasangan! Kami mendeteksi bahwa Beaver Builder sepertinya sudah terinstal di folder bernama <kbd>%s</kbd>.<br />Agar pembaruan otomatis dapat bekerja, plugin harus dipasang di folder <kbd>bb-plugin</kbd>."
+
+#: classes/class-fl-builder-import.php:44
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr "Impor <strong>artikel, halaman, komentar, bidang ragam, kategori, dan tag</strong> dari berkas ekspor WordPress."
+
+#: classes/class-fl-builder-service-campayn.php:132
+#: classes/class-fl-builder-service-mailrelay.php:116
+msgid "Host"
+msgstr "Server"
+
+#: classes/class-fl-builder-admin-advanced.php:26
+#: classes/class-fl-builder-user-access.php:282
+#: classes/class-fl-builder-user-access.php:290
+msgid "Frontend"
+msgstr "Sisi-depan"
+
+#: classes/class-fl-builder-service-enormail.php:104
+#: classes/class-fl-builder-service-sendy.php:126
+msgid "Found in your Sendy application under Settings."
+msgstr "Temukan pada aplikasi Sendy Anda dibawah Pengaturan."
+
+#: classes/class-fl-builder-service-mailerlite.php:105
+msgid "Found in your MailerLite account under Integrations > Developer API."
+msgstr "Temukan pada akun MailerLite Anda dibawah Integrations > Developer API."
+
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:179
+msgctxt "A signup form from your GoDaddy Email Marketing account."
+msgid "Form"
+msgstr "Formulir"
+
+#: classes/class-fl-builder-service-activecampaign.php:217
+msgctxt "Select a form a ActiveCampaign."
+msgid "Form"
+msgstr "Formulir"
+
+#: classes/class-fl-builder-service-activecampaign.php:184
+msgid "Form"
+msgstr "Formulir"
+
+#: classes/class-fl-builder-service-icontact-pro.php:81
+msgid "Error: You must provide an app password."
+msgstr "Galat: Anda harus memasukkan katasandi app."
+
+#: classes/class-fl-builder-service-sendy.php:74
+msgid "Error: You must provide a list ID."
+msgstr "Galat: Anda harus memasukkan daftar ID."
+
+#: classes/class-fl-builder-service-campayn.php:98
+#: classes/class-fl-builder-service-mailrelay.php:77
+msgid "Error: You must provide a Host."
+msgstr "Galat: Anda harus memasukkan Server."
+
+#. translators: %s: error code
+#: classes/class-fl-builder-service-ontraport.php:90
+msgid "Error: Please check your API token. Code: %s"
+msgstr "Galat: Mohon periksa token API Anda. Kode: %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-drip.php:95
+msgid "Error: Please check your API token. %s"
+msgstr "Galat: Mohon periksa token API Anda. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-campayn.php:175
+#: classes/class-fl-builder-service-convertkit.php:76
+#: classes/class-fl-builder-service-mailrelay.php:162
+msgid "Error: Please check your API key. %s"
+msgstr "Galat: Mohon periksa kunci API Anda. %s"
+
+#: classes/class-fl-builder-service-mautic.php:188
+msgid "Error: Please check your API credentials."
+msgstr "Galat: Harap periksa kredensial API Anda."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-drip.php:88
+msgid "Error: Please check your Account ID. %s"
+msgstr "Galat: Harap periksa ID Akun Anda. %s"
+
+#: classes/class-fl-builder-service-mautic.php:81
+msgid "Error: You must provide your Mautic app user password."
+msgstr "Galat: Anda harus memasukkan kata-kunci pengguna Mautic app."
+
+#: classes/class-fl-builder-service-mautic.php:77
+msgid "Error: You must provide your Mautic app username."
+msgstr "Galat: Anda harus memasukkan nama-pengguna Mautic app."
+
+#: classes/class-fl-builder-service-mautic.php:73
+msgid "Error: You must provide your Mautic installation URL."
+msgstr "Galat: Anda harus memasukkan URL pemasangan Mautic."
+
+#: classes/class-fl-builder-service-sendy.php:66
+msgid "Error: You must provide your Sendy installation URL."
+msgstr "Galat: Anda harus memasukkan URL lokasi pemasangan Sendy."
+
+#: classes/class-fl-builder-fonts.php:223
+msgid "Extra-Bold"
+msgstr "Ekstra-Tegas"
+
+#: classes/class-fl-builder-fonts.php:224
+#: classes/class-fl-builder-fonts.php:225
+msgid "Extra-Bold Italic"
+msgstr "Italik Ekstra-Tegas"
+
+#: classes/class-fl-builder-admin-settings.php:673
+msgid "Error! When downloading from Icomoon, be sure to click the Download Font button and not Generate SVG."
+msgstr "Galat! Saat mengunduh dari Icomoon, pastikan untuk mengklik tombol Download Font dan bukan Generate SVG."
+
+#: classes/class-fl-builder.php:1386
+msgid "Duplicate Layout"
+msgstr "Duplikasi Tata Letak"
+
+#: classes/class-fl-builder.php:1485
+msgctxt "label for the WordPress Dashboard link"
+msgid "Dashboard"
+msgstr "Dasbor"
+
+#: classes/class-fl-builder.php:1508
+msgid "Customize Theme"
+msgstr "Sesuaikan Tema"
+
+#. translators: %s: post label
+#: classes/class-fl-builder.php:1740
+msgctxt "Currently editing message"
+msgid "Currently Editing %s"
+msgstr "Sedang Menyunting %s"
+
+#: classes/class-fl-builder.php:1554 includes/ui-js-config.php:283
+msgid "Contact Support"
+msgstr "Hubungi Layanan Dukungan"
+
+#: classes/class-fl-builder-ui-content-panel.php:139
+#: includes/global-settings.php:180
+msgid "Columns"
+msgstr "Kolom"
+
+#: classes/class-fl-builder-fonts.php:221
+#: classes/class-fl-builder-fonts.php:222
+msgid "Bold Italic"
+msgstr "Italik Tegas"
+
+#: classes/class-fl-builder-fonts.php:220
+msgid "Bold"
+msgstr "Tegas"
+
+#: classes/class-fl-builder-service-mautic.php:130
+msgid ""
+"API should be enabled in your Mautic application.\n"
+"\t\t\t\t\tGo to Mautic Configuration / API Settings and set `API enabled` to `Yes`, set `Enable HTTP basic auth` to `Yes` . Save changes."
+msgstr ""
+"API harus diaktifkan pada aplikasi Mautic Anda.\n"
+" \t\t\t\t\t  Pergi ke Konfigurasi Mautic / Pengaturan API dan set `API enabled` ke `Yes`, set `Enable HTTP basic auth` ke `Yes`. Simpan perubahan."
+
+#: classes/class-fl-builder-loader.php:168
+msgid "Beaver Builder may not be functioning correctly as it does not have permission to write files to the WordPress uploads directory on your server. Please update the WordPress uploads directory permissions before continuing or contact your host for assistance."
+msgstr "Beaver Builder bisa tidak berfungsi dengan benar karena tidak memiliki hak akses untuk menulis berkas ke direktori unggah WordPress pada server Anda. Harap mengubah hak akses direktori unggah WordPress sebelum melanjutkan atau kontak hosting Anda untuk meminta bantuan."
+
+#. translators: 1: Godaddy account page: 2: Godaddy signup page
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:114
+msgid "<a%1$s>Sign in</a> to get your username and API key. <a%2$s>Signup</a> if you don't have a GoDaddy Email Marketing account."
+msgstr "<a%1$s>Masuk</a> untuk memperoleh nama pengguna dan kunci API Anda. <a%2$s>Mendaftar</a> bila Anda belum memiliki akun GoDaddy Email Marketing. "
+
+#. translators: %s: branded builder name
+#: classes/class-fl-builder-wp-blocks.php:89
+msgctxt "%s branded builder name."
+msgid "%s lets you drag and drop your layout on the frontend."
+msgstr "%s mengizinkan Anda melakukan seret dan taruh tata letak dari sisi-depan (front-end)."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-sendy.php:94
+msgid "Error: Could not connect to Sendy. %s"
+msgstr "Galat: Tidak dapat terkoneksi ke Sendy. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-mautic.php:108
+msgid "Error: Could not connect to Mautic. %s"
+msgstr "Galat: Tidak dapat terkoneksi ke Mautic. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-mailrelay.php:96
+msgid "Error: Could not connect to Mailrelay. %s"
+msgstr "Galat: Tidak dapat terkoneksi ke Mailrelay. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-icontact-pro.php:108
+#: classes/class-fl-builder-service-icontact-pro.php:217
+msgid "Error: Could not connect to iContact Pro. %s"
+msgstr "Galat: Tidak dapat terkoneksi ke iContactPro. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-enormail.php:81
+msgid "Error: Could not connect to Enormail. %s"
+msgstr "Galat: Tidak dapat terkoneksi ke Enormail. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-campayn.php:112
+msgid "Error: Could not connect to Campayn. %s"
+msgstr "Galat: Tidak dapat terkoneksi ke Campayn.%s"
+
+#: classes/class-fl-builder-admin-settings.php:482
+msgid "Error! You must have at least one module enabled."
+msgstr "Galat! Anda harus mengaktifkan setidaknya satu modul."
+
+#: modules/photo/photo.php:690
+msgid "Landscape"
+msgstr "Lanskap"
+
+#: modules/photo/photo.php:692
+msgid "Portrait"
+msgstr "Potret"
+
+#: includes/ui-js-config.php:237
+msgid "Save"
+msgstr "Simpan"
+
+#. Author of the plugin
+msgid "The Beaver Builder Team"
+msgstr "Tim Beaver Builder"
+
+#. Plugin Name of the plugin
+msgid "Beaver Builder Plugin (Lite Version)"
+msgstr "Beaver Builder Plugin (Versi Ringan)"
+
+#: includes/ui-js-config.php:286 includes/ui-js-config.php:318
+#: modules/widget/includes/settings-general.php:38
+#: modules/widget/includes/settings-general.php:41 modules/widget/widget.php:13
+msgid "Widget"
+msgstr "Widget"
+
+#. translators: %s: widget slug
+#: modules/widget/includes/frontend.php:54
+#: modules/widget/includes/settings-general.php:47
+msgctxt "%s stands for widget slug."
+msgid "%s no longer exists."
+msgstr "%s tidak lagi ada."
+
+#: modules/audio/audio.php:130 modules/video/video.php:386
+msgid "Loop"
+msgstr "Berputar"
+
+#: modules/audio/audio.php:118 modules/video/video.php:374
+msgid "Auto Play"
+msgstr "Mainkan Otomatis"
+
+#: modules/video/video.php:369
+msgctxt "Video preview/fallback image."
+msgid "Poster"
+msgstr "Pembuat Artikel"
+
+#: modules/video/video.php:317
+msgid "Video Type"
+msgstr "Tipe Video"
+
+#: modules/video/video.php:19
+msgid "Render a WordPress or embedable video."
+msgstr "Buat video WordPress atau video yang dapat dilekatkan"
+
+#: includes/ui-field-link.php:15
+msgid "New Window"
+msgstr "Jendela Baru"
+
+#: modules/photo/photo.php:666
+msgid "Link URL"
+msgstr "Tautan URL"
+
+#: modules/photo/photo.php:659
+msgid "Link type applies to how the image should be linked on click. You can choose a specific URL, the individual photo or a separate page with the photo."
+msgstr "Tipe tautan berlaku pada bagaimana gambar seharusnya ditautkan bila di klik. Anda dapat memilih URL tertentu, foto individual, atau halaman terpisah dengan foto."
+
+#: modules/photo/photo.php:648
+msgid "Photo File"
+msgstr "Berkas Foto"
+
+#: modules/button/button.php:242 modules/photo/photo.php:647
+msgid "Lightbox"
+msgstr "Kotak-penerang (Lightbox)"
+
+#: modules/photo/photo.php:643
+msgid "Link Type"
+msgstr "Tipe Tautan"
+
+#: modules/photo/photo.php:612
+msgid "Below Photo"
+msgstr "Foto Dibawah"
+
+#: includes/column-settings.php:512 includes/module-settings.php:74
+#: includes/row-settings.php:860 modules/photo/photo.php:610
+msgid "Never"
+msgstr "Tidak-pernah"
+
+#: modules/photo/photo.php:603 modules/photo/photo.php:631
+msgid "Caption"
+msgstr "Judul Keterangan"
+
+#: modules/icon/icon.php:130
+msgid "Alignment"
+msgstr "Perataan"
+
+#: classes/class-fl-builder-art.php:81 modules/photo/photo.php:694
+msgid "Circle"
+msgstr "Lingkaran"
+
+#: modules/photo/photo.php:693
+msgid "Square"
+msgstr "Kotak"
+
+#: modules/photo/photo.php:691
+msgid "Panorama"
+msgstr "Panorama"
+
+#: modules/photo/photo.php:686
+msgid "Crop"
+msgstr "Pangkas"
+
+#: modules/photo/photo.php:580
+msgid "http://www.example.com/my-photo.jpg"
+msgstr "http://www.example.com/my-photo.jpg"
+
+#: includes/row-settings.php:264 modules/photo/photo.php:579
+msgid "Photo URL"
+msgstr "URL Foto"
+
+#: includes/row-settings.php:248 modules/photo/photo.php:554
+#: modules/photo/photo.php:646
+msgid "URL"
+msgstr "URL"
+
+#: includes/row-settings.php:244 modules/photo/photo.php:550
+msgid "Photo Source"
+msgstr "Sumber Foto"
+
+#: modules/photo/photo.php:25
+msgid "Upload a photo or display one from the media library."
+msgstr "Unggah foto atau tampilkan dari pustaka media."
+
+#: modules/html/html.php:14
+msgid "Display raw HTML code."
+msgstr "Tampilkan kode HTML mentah."
+
+#: modules/button/button.php:278 modules/html/html.php:13
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/updater/includes/form.php:32
+msgid "Not Active!"
+msgstr "Tidak Aktif!"
+
+#: includes/updater/includes/form.php:36
+msgid "Active!"
+msgstr "Aktif!"
+
+#: includes/updater/classes/class-fl-updater.php:496
+#: includes/updater/includes/form.php:15
+msgid "Subscribe Now"
+msgstr "Daftar Sekarang"
+
+#: includes/updater/classes/class-fl-updater.php:461
+msgid "Please subscribe to enable automatic updates for this plugin."
+msgstr "Mohon mendaftar untuk mengaktifkan pembaharuan otomatis untuk plugin ini."
+
+#: classes/class-fl-builder-model.php:3940
+msgid "6 Columns"
+msgstr "6 Kolom"
+
+#: classes/class-fl-builder-model.php:3935
+msgid "5 Columns"
+msgstr "5 Kolom"
+
+#: classes/class-fl-builder-model.php:3930
+msgid "4 Columns"
+msgstr "4 Kolom"
+
+#: classes/class-fl-builder-model.php:3925
+msgid "3 Columns"
+msgstr "3 Kolom"
+
+#: classes/class-fl-builder-model.php:3920
+msgid "2 Columns"
+msgstr "2 Kolom"
+
+#: classes/class-fl-builder-model.php:3915
+msgid "1 Column"
+msgstr "1 Kolom"
+
+#: classes/class-fl-builder.php:1790
+msgid "Buy Now"
+msgstr "Beli Sekarang"
+
+#: includes/row-settings.php:923
+msgid "A unique ID that will be applied to this row's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr "ID unik yang akan di aplikasikan ke HTML baris ini. Harus dimulai dengan huruf dan hanya mengandung tanda garis, garis bawah, huruf dan angka. Tidak ada spasi."
+
+#: includes/row-settings.php:626
+msgid "Slow"
+msgstr "Lambat"
+
+#: includes/row-settings.php:625
+msgctxt "Speed."
+msgid "Medium"
+msgstr "Sedang"
+
+#: includes/row-settings.php:624
+msgid "Fast"
+msgstr "Cepat"
+
+#: includes/row-settings.php:594
+msgid "Randomize Photos"
+msgstr "Foto Random"
+
+#: includes/row-settings.php:582
+msgid "Transition Speed"
+msgstr "Kecepatan Transisi"
+
+#: includes/row-settings.php:574
+msgid "Boxes Grow"
+msgstr "Tumbuh Kotak-kotak"
+
+#: includes/row-settings.php:573
+msgid "Random Boxes"
+msgstr "Kotak Random"
+
+#: includes/row-settings.php:571
+msgid "Random Bars"
+msgstr "Bar Random"
+
+#: includes/row-settings.php:572
+msgid "Boxes"
+msgstr "Kotak-kotak"
+
+#: includes/row-settings.php:569
+msgid "Blinds"
+msgstr "Membuta"
+
+#: includes/row-settings.php:566
+msgid "Ken Burns"
+msgstr "Ken Burns"
+
+#: includes/updater/includes/form.php:10
+msgid "UPDATES UNAVAILABLE! Please subscribe or enter your license key below to enable automatic updates."
+msgstr "PEMBAHARUAN TERHENTI! Harap mendaftar atau masukkan kunci lisensi Anda dibawah ini untuk mengaktifkan pembaruan otomatis."
+
+#: includes/updater/includes/form.php:29
+msgid "Updates &amp; Support Subscription"
+msgstr "Pendaftaran Pembaruan &amp; Dukungan"
+
+#: classes/class-fl-builder-admin-settings.php:280
+#: classes/class-fl-builder.php:1359
+msgid "Tools"
+msgstr "Perkakas"
+
+#: includes/row-settings.php:568
+msgid "Slide Vertical"
+msgstr "Geser Vertikal"
+
+#: includes/row-settings.php:567
+msgid "Slide Horizontal"
+msgstr "Geser Horizontal"
+
+#: modules/sidebar/includes/settings-general.php:5
+#: modules/sidebar/sidebar.php:13
+msgid "Sidebar"
+msgstr "Bilahsisi"
+
+#: modules/photo/photo.php:607
+msgid "Show Caption"
+msgstr "Perlihatkan Keterangan Singkat"
+
+#: includes/ui-service-settings.php:36
+msgid "Service"
+msgstr "Layanan"
+
+#: classes/class-fl-builder-model.php:3950
+msgid "Right Sidebar"
+msgstr "Kanan Bilah-sisi"
+
+#: modules/photo/photo.php:611
+msgid "On Hover"
+msgstr "Saat Mengambang"
+
+#: modules/photo/photo.php:645
+msgctxt "Link type."
+msgid "None"
+msgstr "Tidak ada"
+
+#: classes/class-fl-builder-model.php:3945
+msgid "Left Sidebar"
+msgstr "Bilahsisi Kiri"
+
+#: classes/class-fl-builder-model.php:3955
+msgid "Left & Right Sidebar"
+msgstr "Bilahsisi Kiri & Kanan"
+
+#: modules/widget/widget.php:14
+msgid "Display a WordPress widget."
+msgstr "Tampilkan sebuah elemen interaksi (widget) WordPress."
+
+#: modules/sidebar/sidebar.php:14
+msgid "Display a WordPress sidebar that has been registered by the current theme."
+msgstr "Tampilkan bilahsisi WordPress yang telah didaftarkan oleh tema saat ini."
+
+#: includes/row-settings.php:570
+msgid "Bars"
+msgstr "Bilah"
+
+#: includes/row-settings.php:607
+msgid "Background Parallax"
+msgstr "Paralaks Latar Belakang"
+
+#: modules/rich-text/rich-text.php:14
+msgid "A WYSIWYG text editor."
+msgstr "Sebuah penyunting teks WYSIWYG"
+
+#. Description of the plugin
+msgid "A drag and drop frontend WordPress page builder plugin that works with almost any theme!"
+msgstr "Plugin Builder Halaman WordPress seret-dan-taruh sisi-depan yang dapat bekerja dengan hampir semua tema!"
+
+#: includes/row-settings.php:931
+msgid "A class that will be applied to this row's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. Separate multiple classes with spaces."
+msgstr "Kelas yang dapat diaplikasikan pada baris HTML ini. Harus dimulai dengan huruf dan hanya berisi tanda garis, garis bawah, huruf atau angka. Pisahkan kelas dengan spasi."
+
+#: modules/video/video.php:321
+msgid "Embed"
+msgstr "Tanam"
+
+#: includes/updater/includes/form.php:47
+msgid "Enter your <a%s>license key</a> to enable remote updates and support."
+msgstr "Masukkan <a%s>kunci lisensi</a> Anda untuk mengaktifkan pembaruan jarak jauh dan layanan dukungan."
+
+#: includes/ui-field-photo.php:88
+msgid "Edit"
+msgstr "Sunting"
+
+#: classes/class-fl-builder-admin-settings.php:285
+#: classes/class-fl-builder-model.php:3296
+#: classes/class-fl-builder-module.php:389 includes/column-settings.php:387
+#: includes/module-settings.php:6 includes/row-settings.php:754
+msgid "Advanced"
+msgstr "Pengaturan Lanjutan"
+
+#: classes/class-fl-builder-services.php:375
+msgid "Account"
+msgstr "Akun"
+
+#: classes/class-fl-builder-font-awesome.php:278
+#: classes/class-fl-builder-font-awesome.php:297
+#: includes/column-settings.php:54 includes/global-settings.php:19
+#: includes/global-settings.php:349 includes/global-settings.php:364
+#: includes/global-settings.php:404 includes/global-settings.php:414
+#: includes/row-settings.php:476 includes/row-settings.php:489
+#: includes/row-settings.php:598 includes/ui-loop-settings-filter.php:136
+#: includes/ui-loop-settings.php:131 modules/audio/audio.php:122
+#: modules/audio/audio.php:134 modules/audio/audio.php:159
+#: modules/audio/audio.php:173 modules/audio/audio.php:185
+#: modules/audio/audio.php:194 modules/icon/icon.php:219
+#: modules/photo/photo.php:591 modules/video/video.php:361
+#: modules/video/video.php:378 modules/video/video.php:390
+#: modules/video/video.php:402 modules/video/video.php:489
+msgid "Yes"
+msgstr "Ya"
+
+#: includes/ui-js-config.php:258
+msgid "Next"
+msgstr "Berikut"
+
+#: classes/class-fl-builder.php:1794 includes/ui-js-config.php:178
+#: includes/ui-js-templates.php:360
+msgid "Done"
+msgstr "Selesai"
+
+#: includes/ui-field-icon.php:26 includes/ui-field-photo.php:90
+#: includes/ui-js-config.php:227 includes/ui-js-templates.php:35
+#: includes/ui-js-templates.php:96 includes/ui-js-templates.php:209
+msgid "Remove"
+msgstr "Singkirkan"
+
+#: includes/row-settings.php:564
+msgctxt "Slideshow transition type."
+msgid "None"
+msgstr "Tidak Ada"
+
+#: includes/row-settings.php:561
+msgid "Transition"
+msgstr "Transisi"
+
+#: includes/row-settings.php:549 includes/row-settings.php:621
+msgid "Speed"
+msgstr "Kecepatan"
+
+#: includes/row-settings.php:541
+msgid "Feed URL"
+msgstr "URL Umpan"
+
+#: includes/row-settings.php:533
+msgid "Photos"
+msgstr "Foto"
+
+#: includes/row-settings.php:247 includes/row-settings.php:406
+#: includes/row-settings.php:515 modules/audio/audio.php:83
+#: modules/photo/photo.php:553 modules/video/video.php:320
+msgid "Media Library"
+msgstr "Pustaka Media"
+
+#: includes/row-settings.php:403 includes/row-settings.php:512
+#: includes/ui-loop-settings-filter.php:34 includes/ui-loop-settings.php:35
+msgid "Source"
+msgstr "Sumber"
+
+#: classes/class-fl-builder-font-awesome.php:278
+#: includes/column-settings.php:53 includes/global-settings.php:18
+#: includes/global-settings.php:348 includes/global-settings.php:363
+#: includes/global-settings.php:403 includes/global-settings.php:413
+#: includes/row-settings.php:475 includes/row-settings.php:488
+#: includes/row-settings.php:597 includes/ui-loop-settings-filter.php:137
+#: includes/ui-loop-settings.php:132 modules/audio/audio.php:121
+#: modules/audio/audio.php:133 modules/audio/audio.php:158
+#: modules/audio/audio.php:172 modules/audio/audio.php:184
+#: modules/audio/audio.php:193 modules/icon/icon.php:218
+#: modules/photo/photo.php:590 modules/video/video.php:362
+#: modules/video/video.php:377 modules/video/video.php:389
+#: modules/video/video.php:401 modules/video/video.php:490
+msgid "No"
+msgstr "Tidak"
+
+#: includes/row-settings.php:499
+msgid "A photo that will be displayed if the video fails to load."
+msgstr "Foto akan ditampilkan jika video gagal dimuat."
+
+#: modules/button/button.php:279 modules/video/video.php:18
+msgid "Video"
+msgstr "Video"
+
+#: includes/row-settings.php:203
+msgctxt "Background type."
+msgid "Parallax"
+msgstr "Paralaks"
+
+#: includes/row-settings.php:199
+msgctxt "Background type."
+msgid "Slideshow"
+msgstr "Tampil-geser"
+
+#: includes/row-settings.php:196
+msgctxt "Background type."
+msgid "Video"
+msgstr "Video"
+
+#: includes/row-settings.php:145 modules/button/button.php:394
+#: modules/icon/icon.php:243
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: includes/row-settings.php:140
+msgid "Colors"
+msgstr "Warna"
+
+#: includes/row-settings.php:41
+msgid "Full width content spans the width of the page from edge to edge. Fixed content is no wider than the Row Max Width set in the Global Settings."
+msgstr "Konten lebar penuh menutupi lebar halaman dari ujung ke ujung. Konten tetap adalah tidak lebih lebar daripada angka Lebar Maksimal Baris yang diatur pada Pengaturan Global."
+
+#: includes/row-settings.php:35
+msgid "Content Width"
+msgstr "Lebar Konten"
+
+#: includes/row-settings.php:28
+msgid "Full width rows span the width of the page from edge to edge. Fixed rows are no wider than the Row Max Width set in the Global Settings."
+msgstr "Baris lebar penuh meliputi lebar halaman dari ujung ke ujung. Baris tetap tidak lebih lebar daripada angka Lebar Baris Maksimal yang diatur pada Pengaturan Global."
+
+#: classes/class-fl-builder-art.php:457 includes/column-settings.php:14
+#: includes/row-settings.php:17 includes/ui-field-border.php:180
+#: modules/button/button.php:324 modules/photo/photo.php:699
+msgid "Width"
+msgstr "Lebar"
+
+#: includes/module-settings.php:144 includes/row-settings.php:930
+msgid "Class"
+msgstr "Kelas"
+
+#: includes/module-settings.php:137
+msgid "A unique ID that will be applied to this module's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr "ID unik yang akan diaplikasikan ke HTML modul ini. Harus dimulai dengan angka dan hanya berisi garis, garis bawah, huruf, atau angka. Tanpa spasi."
+
+#: includes/row-settings.php:554 includes/row-settings.php:587
+msgctxt "Value unit for form field of time in seconds. Such as: \"5 seconds\""
+msgid "seconds"
+msgstr "detik"
+
+#: includes/ui-field-animation.php:32
+msgctxt "Animation style."
+msgid "Slide Down"
+msgstr "Geser Turun"
+
+#: includes/ui-field-animation.php:31
+msgctxt "Animation style."
+msgid "Slide Up"
+msgstr "Geser Atas"
+
+#: includes/ui-field-animation.php:30
+msgctxt "Animation style."
+msgid "Slide Right"
+msgstr "Geser Kanan"
+
+#: includes/ui-field-animation.php:29
+msgctxt "Animation style."
+msgid "Slide Left"
+msgstr "Geser Kiri"
+
+#: includes/ui-field-animation.php:15
+msgctxt "Animation style."
+msgid "None"
+msgstr "Tidak Ada"
+
+#: includes/column-settings.php:535 includes/column-settings.php:539
+#: includes/module-settings.php:97 includes/module-settings.php:101
+#: includes/row-settings.php:883 includes/row-settings.php:887
+msgid "Animation"
+msgstr "Animasi"
+
+#: includes/ui-loop-settings-filter.php:150 includes/ui-loop-settings.php:140
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/ui-loop-settings-filter.php:127 includes/ui-loop-settings.php:122
+msgid "Skip this many posts that match the specified criteria."
+msgstr "Lewati sekian banyak artikel yang memenuhi kriteria yang ditetapkan."
+
+#: includes/ui-loop-settings-filter.php:118 includes/ui-loop-settings.php:113
+msgctxt "How many posts to skip."
+msgid "Offset"
+msgstr "Ofset"
+
+#: includes/ui-loop-settings-filter.php:75 includes/ui-loop-settings.php:70
+#: includes/ui-simple-loop.php:50
+msgid "Order"
+msgstr "Urutan"
+
+#: includes/ui-loop-settings-filter.php:95 includes/ui-loop-settings.php:90
+#: includes/ui-simple-loop.php:73
+msgid "Random"
+msgstr "Random"
+
+#: includes/ui-loop-settings-filter.php:92 includes/ui-loop-settings.php:87
+#: includes/ui-simple-loop.php:70
+msgid "Menu Order"
+msgstr "Urutan Menu"
+
+#: includes/ui-loop-settings-filter.php:88 includes/ui-loop-settings.php:83
+#: includes/ui-simple-loop.php:69
+msgid "Comment Count"
+msgstr "Hitungan Komentar"
+
+#: includes/ui-loop-settings-filter.php:87 includes/ui-loop-settings.php:82
+#: includes/ui-simple-loop.php:64
+msgid "Author"
+msgstr "Penulis"
+
+#: includes/ui-loop-settings-filter.php:205 includes/ui-loop-settings.php:194
+msgid "Authors"
+msgstr "Para Penulis"
+
+#: includes/ui-loop-settings-filter.php:96 includes/ui-loop-settings.php:91
+#: includes/ui-simple-loop.php:65
+msgid "Title"
+msgstr "Judul"
+
+#: includes/loop-settings-filter.php:36 includes/ui-loop-settings-filter.php:89
+#: includes/ui-loop-settings.php:84 includes/ui-simple-loop.php:67
+msgid "Date"
+msgstr "Tanggal"
+
+#: includes/ui-loop-settings-filter.php:68 includes/ui-loop-settings.php:63
+#: includes/ui-simple-loop.php:32
+msgid "Post Type"
+msgstr "Tipe Artikel"
+
+#: includes/ui-js-config.php:289 includes/ui-js-templates.php:349
+msgid "Yes Please!"
+msgstr "Ya!"
+
+#: includes/ui-js-config.php:284
+msgid "Watch the Video"
+msgstr "Saksikan Video"
+
+#: includes/ui-js-config.php:280
+msgid "View the Knowledge Base"
+msgstr "Tampilkan Basis Pengetahuan"
+
+#: includes/ui-js-config.php:277
+msgid "Let's Get Building!"
+msgstr "Mari Mulai Membangun!"
+
+#: includes/ui-js-config.php:275
+msgid "Publish Your Changes"
+msgstr "Publikasikan Perubahan Anda"
+
+#: includes/ui-js-config.php:273
+msgid "Helpful Tools"
+msgstr "Peralatan Yang Membantu"
+
+#: includes/ui-js-config.php:271
+msgid "Change Templates"
+msgstr "Ubah Pola"
+
+#: includes/ui-js-config.php:269
+msgid "Add More Content"
+msgstr "Tambah Konten Lagi"
+
+#: includes/ui-js-config.php:264
+msgid "Add Content"
+msgstr "Tambah Konten"
+
+#: includes/ui-js-config.php:262
+msgid "Add Rows"
+msgstr "Tambah Baris"
+
+#: includes/ui-js-config.php:261
+msgid "Get started by choosing a layout template to customize, or build a page from scratch by selecting the blank layout template."
+msgstr "Mulai dengan memilih tata-letak pola untuk di-kostumasi, atau bangun halaman dari nol dengan memilih pola tata-letak kosong."
+
+#: includes/ui-js-config.php:260
+msgid "Choose a Template"
+msgstr "Pilih Pola"
+
+#: includes/ui-js-config.php:259
+msgid "Get Started"
+msgstr "Mari Mulai"
+
+#: classes/class-fl-builder-ui-settings-forms.php:539
+#: includes/ui-js-config.php:257
+msgid "Thumbnail"
+msgstr "Gambar Seujung-kuku"
+
+#: includes/ui-js-config.php:256
+msgid "Template Saved!"
+msgstr "Pola Disimpan!"
+
+#: includes/ui-js-config.php:251
+msgid "Please select a list before saving."
+msgstr "Harap pilih daftar sebelum menyimpan."
+
+#: includes/ui-js-config.php:250
+msgid "Please connect an account before saving."
+msgstr "Harap koneksi ke akun sebelum menyimpan."
+
+#: includes/ui-js-config.php:249
+msgid "Please select an account before saving."
+msgstr "Harap pilih akun sebelum menyimpan."
+
+#: includes/ui-js-config.php:245
+msgid "Select Photos"
+msgstr "Pilih Foto"
+
+#: classes/class-fl-builder.php:1378 includes/ui-js-config.php:242
+msgid "Save Template"
+msgstr "Simpan Pola"
+
+#: includes/ui-js-config.php:236
+msgid "Save Core Template"
+msgstr "Simpan Pola Induk"
+
+#: includes/row-settings.php:6 includes/ui-js-config.php:234
+#: includes/ui-js-templates.php:12 includes/ui-js-templates.php:15
+msgid "Row Settings"
+msgstr "Pengaturan Baris"
+
+#: includes/ui-js-config.php:233 includes/ui-js-config.php:316
+msgid "Row"
+msgstr "Baris"
+
+#: includes/ui-js-config.php:226
+msgid "Publish Changes"
+msgstr "Publikasikan Perubahan"
+
+#: includes/ui-js-config.php:223
+msgid "Please Wait..."
+msgstr "Harap Menunggu..."
+
+#: includes/ui-js-config.php:218
+msgid "Photos Selected"
+msgstr "Foto Dipilih"
+
+#: includes/ui-js-config.php:215
+msgid "Photo Selected"
+msgstr "Foto Dipilih"
+
+#: includes/ui-js-config.php:214 modules/photo/photo.php:649
+msgid "Photo Page"
+msgstr "Halaman Foto"
+
+#: includes/ui-js-config.php:213 includes/ui-js-templates.php:304
+#: includes/ui-js-templates.php:331
+msgid "OK"
+msgstr "OK"
+
+#: includes/ui-js-templates.php:348
+msgid "No Thanks"
+msgstr "Tidak, Terima Kasih"
+
+#: includes/ui-js-config.php:210
+msgid "No results found."
+msgstr "Tidak ditemukan hasil."
+
+#: includes/ui-js-config.php:207
+msgid "New Row"
+msgstr "Baris Baru"
+
+#: includes/ui-js-config.php:206
+msgid "New Column"
+msgstr "Kolom Baru"
+
+#: includes/ui-js-config.php:205 includes/ui-js-templates.php:9
+#: includes/ui-js-templates.php:62 includes/ui-js-templates.php:165
+msgid "Move"
+msgstr "Pindahkan"
+
+#: includes/ui-js-config.php:203 includes/ui-js-config.php:315
+msgid "Module"
+msgstr "Modul"
+
+#: classes/class-fl-builder.php:1494 includes/ui-js-config.php:200
+msgid "Manage Templates"
+msgstr "Atur Pola"
+
+#: classes/class-fl-builder-ui-settings-forms.php:541
+#: includes/ui-js-config.php:199
+msgid "Large"
+msgstr "Besar"
+
+#: includes/ui-js-config.php:198
+msgid "Insert"
+msgstr "Masukkan"
+
+#: includes/ui-js-templates.php:356
+msgid "Getting Started Video"
+msgstr "Memulai Dengan Video"
+
+#: includes/ui-js-config.php:195
+msgid "Get Help"
+msgstr "Cari Bantuan"
+
+#: classes/class-fl-builder-ui-settings-forms.php:542
+#: includes/ui-field-photo-sizes.php:8 includes/ui-js-config.php:194
+msgid "Full Size"
+msgstr "Ukuran Penuh"
+
+#: includes/ui-bar.php:7
+msgid "Save Draft"
+msgstr "Simpan Draft"
+
+#: includes/ui-js-config.php:168
+msgid "Remove Account"
+msgstr "Hapus Akun"
+
+#: includes/ui-js-config.php:164
+msgid "Column"
+msgstr "Kolom"
+
+#: includes/ui-js-config.php:153
+msgid "Change Template"
+msgstr "Ubah Pola"
+
+#: includes/global-settings.php:366
+msgid "When auto spacing is enabled, the builder will automatically adjust the margins and padding in your layout once the small device breakpoint is reached. Most users will want to leave this enabled."
+msgstr "Saat spasi otomatis di aktifkan, builder akan secara otomatis menyesuaikan margin dan pading pada tata-letak setiap titik-ubah tercapai. Kebanyakan pengguna akan membiarkan opsi ini aktif."
+
+#: includes/global-settings.php:160 includes/global-settings.php:174
+#: includes/row-settings.php:21 includes/row-settings.php:39
+#: modules/button/button.php:328
+msgid "Full Width"
+msgstr "Lebar Penuh"
+
+#: includes/global-settings.php:147
+msgid "All rows will default to this width. You can override this and make a row full width in the settings for each row."
+msgstr "Semua baris akan memiliki nilai-awal ini. Anda dapat mengganti ini dan membuat baris lebar penuh pada pengaturan setiap baris."
+
+#: includes/global-settings.php:142
+msgid "Max Width"
+msgstr "Lebar Maks"
+
+#: classes/class-fl-builder-ui-content-panel.php:43
+#: includes/global-settings.php:37
+msgid "Rows"
+msgstr "Baris"
+
+#: includes/global-settings.php:30
+msgid "CSS Selector"
+msgstr "Pemilih CSS"
+
+#: includes/global-settings.php:15
+msgctxt "General settings form field label. Intended meaning: \"Show page heading?\""
+msgid "Show"
+msgstr "Tampilkan"
+
+#: classes/class-fl-builder-art.php:916 includes/global-settings.php:7
+#: includes/ui-field-border.php:3 modules/audio/audio.php:73
+#: modules/button/button.php:186 modules/heading/heading.php:145
+#: modules/html/html.php:27 modules/icon/icon.php:65
+#: modules/photo/photo.php:543 modules/reusable-block/reusable-block.php:60
+#: modules/rich-text/rich-text.php:27 modules/sidebar/sidebar.php:28
+#: modules/video/video.php:310 modules/widget/widget.php:82
+msgid "General"
+msgstr "Umum"
+
+#: includes/ui-field-video.php:37
+msgid "Replace Video"
+msgstr "Ganti Video"
+
+#: includes/ui-field-video.php:23 includes/ui-js-config.php:246
+msgid "Select Video"
+msgstr "Pilih Video"
+
+#: includes/ui-field-photo.php:71 includes/ui-js-config.php:244
+msgid "Select Photo"
+msgstr "Pilih Foto"
+
+#: includes/ui-field-multiple-photos.php:30
+msgid "Add Photos"
+msgstr "Tambah Foto"
+
+#: includes/ui-field-multiple-photos.php:28
+msgid "Create Gallery"
+msgstr "Buat Galeri"
+
+#. translators: %d: number of selected (plural)
+#: includes/ui-js-config.php:220
+msgid "%d Photos Selected"
+msgstr "%d Foto Dipilih"
+
+#: includes/icon-selector.php:28 includes/ui-bar.php:13 includes/ui-bar.php:47
+#: includes/ui-field-link.php:48 includes/ui-js-config.php:152
+#: includes/ui-js-templates.php:296
+msgid "Cancel"
+msgstr "Batal"
+
+#: includes/ui-field-link.php:47 includes/ui-field-suggest.php:10
+msgid "Start typing..."
+msgstr "Mulai mengetik..."
+
+#: includes/ui-field-link.php:4
+msgid "Select"
+msgstr "Pilih"
+
+#: includes/ui-field-icon.php:24 includes/ui-field-photo.php:92
+msgid "Replace"
+msgstr "Ganti"
+
+#: includes/ui-field-icon.php:21
+msgid "Select Icon"
+msgstr "Pilih Ikon"
+
+#: includes/column-settings.php:582
+msgid "CSS Class"
+msgstr "Kelas CSS"
+
+#: includes/column-settings.php:575
+msgid "A unique ID that will be applied to this column's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. No spaces."
+msgstr "ID unik yang akan di-aplikasikan pada HTML kolom ini. Harus dimulai dengan huruf dan hanya berisi garis, garis bawah, huruf atau angka. Tanpa spasi."
+
+#: includes/column-settings.php:574 includes/module-settings.php:136
+#: includes/row-settings.php:922 includes/ui-loop-settings-filter.php:91
+#: includes/ui-loop-settings.php:86 includes/ui-simple-loop.php:63
+msgid "ID"
+msgstr "ID"
+
+#: includes/column-settings.php:509 includes/module-settings.php:71
+#: includes/row-settings.php:857
+msgid "Always"
+msgstr "Selalu"
+
+#: includes/column-settings.php:507 includes/module-settings.php:69
+#: includes/row-settings.php:855
+msgid "Display"
+msgstr "Tampilkan"
+
+#: classes/class-fl-builder-art.php:360 includes/column-settings.php:85
+#: includes/row-settings.php:118
+msgid "Bottom"
+msgstr "Bawah"
+
+#: classes/class-fl-builder-art.php:359 includes/column-settings.php:83
+#: includes/row-settings.php:116
+msgid "Top"
+msgstr "Atas"
+
+#: includes/column-settings.php:394 includes/global-settings.php:41
+#: includes/global-settings.php:184 includes/global-settings.php:289
+#: includes/module-settings.php:13 includes/row-settings.php:761
+msgid "Margins"
+msgstr "Margin"
+
+#: includes/column-settings.php:372 includes/column-settings.php:376
+#: includes/row-settings.php:738 includes/row-settings.php:742
+#: modules/button/button.php:538 modules/button/button.php:542
+#: modules/photo/photo.php:734
+msgid "Border"
+msgstr "Pinggiran"
+
+#: includes/column-settings.php:324 includes/row-settings.php:676
+msgid "Overlay Color"
+msgstr "Warna Hamparan"
+
+#: includes/column-settings.php:288 includes/row-settings.php:388
+msgid "Fill"
+msgstr "Memenuhi (Fill)"
+
+#: includes/column-settings.php:287 includes/row-settings.php:387
+msgid "Fit"
+msgstr "Pas (Fit)"
+
+#: includes/column-settings.php:286 includes/row-settings.php:386
+msgctxt "Background scale."
+msgid "None"
+msgstr "Tidak Ada"
+
+#: includes/column-settings.php:282 includes/row-settings.php:382
+msgid "Scale"
+msgstr "Skala"
+
+#: includes/column-settings.php:272 includes/global-settings.php:159
+#: includes/global-settings.php:173 includes/row-settings.php:20
+#: includes/row-settings.php:38 includes/row-settings.php:372
+msgid "Fixed"
+msgstr "Tetap (fixed)"
+
+#: includes/column-settings.php:271 includes/row-settings.php:371
+msgid "Scroll"
+msgstr "Bergulir (scroll)"
+
+#: includes/column-settings.php:267 includes/row-settings.php:367
+msgid "Attachment"
+msgstr "Lampiran"
+
+#: includes/column-settings.php:214 includes/row-settings.php:314
+#: includes/ui-field-gradient.php:52
+msgid "Center Bottom"
+msgstr "Tengah Bawah"
+
+#: classes/class-fl-builder-art.php:477 includes/column-settings.php:84
+#: includes/column-settings.php:213 includes/row-settings.php:117
+#: includes/row-settings.php:313
+msgid "Center"
+msgstr "Tengah"
+
+#: includes/column-settings.php:211 includes/row-settings.php:311
+#: includes/ui-field-gradient.php:49
+msgid "Right Bottom"
+msgstr "Kanan Bawah"
+
+#: includes/column-settings.php:210 includes/row-settings.php:310
+#: includes/ui-field-gradient.php:48
+msgid "Right Center"
+msgstr "Kanan Tengah"
+
+#: includes/column-settings.php:209 includes/row-settings.php:309
+#: includes/ui-field-gradient.php:47
+msgid "Right Top"
+msgstr "Kanan Atas"
+
+#: includes/column-settings.php:208 includes/row-settings.php:308
+#: includes/ui-field-gradient.php:46
+msgid "Left Bottom"
+msgstr "Kiri Bawah"
+
+#: includes/column-settings.php:207 includes/row-settings.php:307
+#: includes/ui-field-gradient.php:45
+msgid "Left Center"
+msgstr "Kiri Tengah"
+
+#: includes/column-settings.php:206 includes/row-settings.php:306
+#: includes/ui-field-gradient.php:44
+msgid "Left Top"
+msgstr "Kiri Atas"
+
+#: includes/column-settings.php:202 includes/row-settings.php:302
+msgid "Position"
+msgstr "Posisi"
+
+#: includes/column-settings.php:192 includes/row-settings.php:292
+msgctxt "Background repeat."
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: includes/column-settings.php:191 includes/row-settings.php:291
+msgctxt "Background repeat."
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: includes/column-settings.php:190 includes/row-settings.php:290
+msgctxt "Background repeat."
+msgid "Tile"
+msgstr "Ubin"
+
+#: includes/column-settings.php:189 includes/row-settings.php:289
+msgctxt "Background repeat."
+msgid "None"
+msgstr "Tidak Ada"
+
+#: includes/column-settings.php:185 includes/row-settings.php:285
+msgid "Repeat"
+msgstr "Ulang"
+
+#: includes/column-settings.php:174 includes/row-settings.php:276
+#: includes/row-settings.php:612 modules/photo/photo.php:24
+#: modules/photo/photo.php:570
+msgid "Photo"
+msgstr "Foto"
+
+#: includes/column-settings.php:169 includes/row-settings.php:240
+msgid "Background Photo"
+msgstr "Foto Latar Belakang"
+
+#: includes/column-settings.php:149 includes/row-settings.php:195
+msgctxt "Background type."
+msgid "Photo"
+msgstr "Foto"
+
+#: includes/column-settings.php:147 includes/row-settings.php:193
+msgctxt "Background type."
+msgid "Color"
+msgstr "Warna"
+
+#: includes/column-settings.php:146 includes/row-settings.php:192
+msgctxt "Background type."
+msgid "None"
+msgstr "Tidak Ada"
+
+#: includes/column-settings.php:143 includes/loop-settings-filter.php:30
+#: includes/row-settings.php:189
+msgid "Type"
+msgstr "Tipe"
+
+#: includes/column-settings.php:129 includes/row-settings.php:175
+msgid "Heading Color"
+msgstr "Warna Heading"
+
+#: includes/column-settings.php:119 includes/row-settings.php:165
+msgid "Link Hover Color"
+msgstr "Warna Tautan Saat Mengambang"
+
+#: includes/column-settings.php:109 includes/row-settings.php:155
+msgid "Link Color"
+msgstr "Warna Tautan"
+
+#: classes/class-fl-builder-art.php:528 includes/column-settings.php:99
+#: includes/column-settings.php:307 includes/column-settings.php:348
+#: includes/row-settings.php:658 includes/row-settings.php:699
+#: includes/ui-field-border.php:172 modules/heading/heading.php:201
+#: modules/icon/icon.php:147 modules/rich-text/rich-text.php:56
+msgid "Color"
+msgstr "Warna"
+
+#: includes/column-settings.php:94 includes/loop-settings-filter.php:35
+#: modules/button/button.php:193 modules/button/button.php:389
+#: modules/icon/icon.php:93 modules/icon/icon.php:225
+msgid "Text"
+msgstr "Teks"
+
+#: includes/column-settings.php:7 includes/row-settings.php:10
+#: includes/ui-field-border.php:166 includes/ui-field-typography.php:261
+#: modules/audio/audio.php:146 modules/button/button.php:317
+#: modules/heading/heading.php:191 modules/icon/icon.php:111
+#: modules/photo/photo.php:679 modules/rich-text/rich-text.php:48
+msgid "Style"
+msgstr "Gaya"
+
+#: includes/column-settings.php:4 includes/ui-js-templates.php:74
+#: includes/ui-js-templates.php:185
+msgid "Column Settings"
+msgstr "Pengaturan Kolom"
+
+#: includes/admin-settings-upgrade.php:26
+msgid "Learn More"
+msgstr "Pelajari Lanjut"
+
+#: includes/admin-settings-post-types.php:78
+msgid "Save Post Types"
+msgstr "Simpan Tipe Artikel"
+
+#: includes/admin-settings-post-types.php:34
+msgid "Example: page, post, product"
+msgstr "Contoh: halaman, artikel, produk"
+
+#: includes/admin-settings-modules.php:121
+msgid "Save Module Settings"
+msgstr "Simpan Pengaturan Modul"
+
+#: includes/admin-settings-modules.php:72
+msgctxt "Plugin setup page: Modules."
+msgid "All"
+msgstr "Semua"
+
+#: includes/admin-settings-js-config.php:14
+msgid "Select File"
+msgstr "Pilih Berkas"
+
+#: includes/admin-settings-modules.php:55
+#: includes/admin-settings-post-types.php:10
+#: includes/admin-settings-user-access.php:22
+msgid "Override network settings?"
+msgstr "Langkahi pengaturan jaringan?"
+
+#: includes/admin-settings-tools.php:16
+msgid "Clear Cache"
+msgstr "Bersihkan Singgahan (Cache)"
+
+#: includes/admin-settings-tools.php:11
+msgid "This only applies to this site. Please visit the Network Admin Settings to clear the cache for all sites on the network."
+msgstr "Ini hanya berlaku untuk situs ini. Silakan kunjungi Pengaturan Admin Jaringan untuk membersihkan singgahan (cache) untuk semua situs pada jaringan."
+
+#: includes/admin-settings-tools.php:9 includes/admin-settings-tools.php:186
+#: includes/updater/includes/form.php:56
+msgid "This applies to all sites on the network."
+msgstr "Ini berlaku untuk semua situs pada jaringan multi-situs ini."
+
+#: includes/admin-settings-tools.php:9 includes/admin-settings-tools.php:11
+#: includes/admin-settings-tools.php:184 includes/admin-settings-tools.php:186
+#: includes/updater/includes/form.php:56
+msgid "NOTE:"
+msgstr "CATATAN:"
+
+#. translators: %s: branded builder name
+#: includes/admin-posts.php:14
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "Launch %s"
+msgstr "Buka %s"
+
+#. translators: 1: branded builder name: 2: post type name
+#: includes/admin-posts.php:11
+msgctxt "The first %s stands for custom branded \"Page Builder\" name. The second %s stands for the post type name."
+msgid "%1$s is currently active for this %2$s."
+msgstr "%1$s saat ini aktif pada tipe artikel %2$s ini."
+
+#. translators: %s: field name to add
+#. translators: %s: field name
+#: classes/class-fl-builder-ui-settings-forms.php:969
+#: includes/ui-js-config.php:142
+msgctxt "Field name to add."
+msgid "Add %s"
+msgstr "Tambah %s"
+
+#: classes/class-fl-builder-services.php:368
+msgid "Add Account..."
+msgstr "Tambah Akun..."
+
+#: classes/class-fl-builder-services.php:339
+msgid "Connect"
+msgstr "Koneksi"
+
+#: classes/class-fl-builder-services.php:326
+msgid "Used to identify this connection within the accounts list and can be anything you like."
+msgstr "Digunakan untuk mengidentifikasi koneksi ini dalam daftar akun dan bisa diisi sesuai keinginan."
+
+#: classes/class-fl-builder-services.php:325
+msgid "Account Name"
+msgstr "Nama Akun"
+
+#: classes/class-fl-builder-services.php:245
+msgctxt "Account name for a third party service such as MailChimp."
+msgid "Error: Missing account name."
+msgstr "Galat: Nama akun belum dimasukkan."
+
+#: classes/class-fl-builder-services.php:243
+msgctxt "Connection data such as an API key."
+msgid "Error: Missing service data."
+msgstr "Galat: Data layanan tidak ditemukan."
+
+#: classes/class-fl-builder-services.php:241
+msgctxt "Third party service such as MailChimp."
+msgid "Error: Missing service type."
+msgstr "Galat: Tipe layanan tidak ditemukan."
+
+#: classes/class-fl-builder-service-sendinblue.php:196
+msgid "There was an error subscribing to SendinBlue. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke SendinBlue. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-sendinblue.php:74
+#: classes/class-fl-builder-service-sendinblue.php:133
+msgid "There was an error connecting to SendinBlue. Please try again."
+msgstr "Ada galat saat mencoba koneksi ke SendinBlue, Harap mencoba lagi."
+
+#: classes/class-fl-builder-service-mailpoet.php:154
+msgid "There was an error subscribing. MailPoet is not installed."
+msgstr "Ada galat saat mendaftar. MailPoet tidak terinstal."
+
+#: classes/class-fl-builder-service-mailpoet.php:92
+msgid "There was an error retrieveing your lists."
+msgstr "Ada galat saat menerima daftar anda."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-mailchimp.php:355
+msgid "There was an error subscribing to MailChimp. %s"
+msgstr "Ada galat saat mendaftar ke MailChimp. %s"
+
+#: classes/class-fl-builder-service-mailchimp.php:264
+msgid "There was an error subscribing to MailChimp. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke MailChimp. Akin tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-mailchimp.php:235
+msgctxt "MailChimp list group."
+msgid "Groups"
+msgstr "Grup"
+
+#: classes/class-fl-builder-service-mailchimp.php:222
+msgid "No Group"
+msgstr "Tanpa Grup"
+
+#: classes/class-fl-builder-service-madmimi.php:207
+#: classes/class-fl-builder-service-madmimi.php:233
+msgid "There was an error subscribing to Mad Mimi. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke Mad Mimi. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-madmimi.php:103
+msgid "The email address associated with your Mad Mimi account."
+msgstr "Alamat surel terasosiasi dengan akun Mad Mimi."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-infusionsoft.php:286
+msgid "There was an error subscribing to Infusionsoft. %s"
+msgstr "Ada galat saat mendaftar ke Infusionsoft. %s"
+
+#: includes/column-settings.php:212 includes/row-settings.php:312
+#: includes/ui-field-gradient.php:50
+msgid "Center Top"
+msgstr "Tengah Atas "
+
+#: classes/class-fl-builder-service-mailchimp.php:108
+msgid "Your API key can be found in your MailChimp account under Account > Extras > API Keys."
+msgstr "Kunci API dapat ditemukan pada akun MailChimp Anda, dibawah Account > Extras > API Keys"
+
+#: classes/class-fl-builder-service-madmimi.php:114
+msgid "Your API key can be found in your Mad Mimi account under Account > Settings &amp; Billing > API."
+msgstr "Kunci API dapat ditemukan di akun Mad Mimi Anda, dibawah Account > Settings &amp; Billing > API."
+
+#: includes/ui-js-config.php:140
+msgid "What would you like to do?"
+msgstr "Apa yang ingin Anda lakukan?"
+
+#: includes/ui-js-config.php:285 includes/ui-js-templates.php:347
+msgid "Welcome! It looks like this might be your first time using the builder. Would you like to take a tour?"
+msgstr "Selamat datang! Nampaknya ini adalah pertama kali Anda menggunakan builder. Apakah Anda ingin mengikuti wisata penjelasan?"
+
+#: includes/ui-js-config.php:272
+msgid "Use the Templates button to pick a new template or append one to your layout. Appending will insert a new template at the end of your existing page content."
+msgstr "Gunakan tombol Pola untuk memilih pola baru atau menambahkan ke tata letak Anda. Penambahan akan memasukkan pola baru pada akhir halaman konten Anda yang sekarang."
+
+#: includes/ui-js-config.php:270
+msgid "Use the Add Content button to open the content panel and add new row layouts, modules or widgets."
+msgstr "Gunakan tombol Tambah Konten untuk membuka panel konten dan menambah baris tata letak baru, modul, atau widget."
+
+#: includes/ui-js-config.php:154
+msgid "Warning! Changing the template will replace your existing layout. Do you really want to do this?"
+msgstr "Peringatan! Merubah pola akan mengganti tata letak anda saat ini. Apakah Anda benar-benar ingin melakukan ini?"
+
+#: includes/ui-js-config.php:268
+msgid "Use the action buttons to perform actions such as moving, editing, duplicating or deleting rows, columns and modules."
+msgstr "Gunakan tombol aksi untuk melakukan aksi seperti memindahkan, menyunting, menduplikasi, atau menghapus baris, kolom dan modul."
+
+#: classes/class-fl-builder-service-madmimi.php:77
+msgid "Unable to connect to Mad Mimi. Please check your credentials."
+msgstr "Tidak dapat terkoneksi ke Mad Mimi. Mohon periksa kredensial Anda."
+
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:145
+#: classes/class-fl-builder-service-madmimi.php:147
+msgid "There was a problem retrieving your lists. Please check your API credentials."
+msgstr "Ada masalah menerima daftar Anda. Mohon periksa kredensial API Anda."
+
+#: includes/ui-js-config.php:279
+msgid "The settings you are currently editing will not be saved if you navigate away from this page."
+msgstr "Pengaturan yang sedanga Anda sunting tidak akan di simpan bila Anda keluar dari halaman ini."
+
+#: includes/admin-settings-tools.php:184
+msgid "The builder does not delete the post meta <code>_fl_builder_data</code>, <code>_fl_builder_draft</code> and <code>_fl_builder_enabled</code> in case you want to reinstall it later. If you do, the builder will rebuild all of its data using those meta values."
+msgstr "Builder tidak menghapus meta artikel: <code>_fl_builder_data</code>, <code>_fl_builder_draft</code> dan <code>_fl_builder_enabled</code> mengantisipasi jika nantinya Anda akan menginstal kembali. Jika ya, builder akan membangun kembali seluruh data menggunakan nilai meta tersebut."
+
+#: includes/global-settings.php:396
+msgid "The browser width at which the layout will adjust for small devices such as phones."
+msgstr "Lebar browser yang akan disesuaikan oleh tata letak untuk gawai kecil seperti ponsel."
+
+#: includes/global-settings.php:386
+msgid "The browser width at which the layout will adjust for medium devices such as tablets."
+msgstr "Lebar browser dimana tata letak akan disesuaikan untuk gawai sedang seperti tablet."
+
+#: includes/admin-posts.php:5 modules/rich-text/rich-text.php:13
+msgid "Text Editor"
+msgstr "Penyunting Teks"
+
+#: includes/ui-js-config.php:253
+msgid "Take a Tour"
+msgstr "Lakukan Wisata Belajar"
+
+#. translators: 1: branded builder name
+#: includes/admin-posts.php:26
+msgctxt "%s stands for custom branded \\\"Page Builder\\\" name."
+msgid "Switching to Text Editor mode will disable your %1$s layout until it is enabled again. Any edits made while in Text Editor mode will not be made on your %1$s layout. Do you want to continue?"
+msgstr "Perubahan ke mode Penyunting Teks akan menonaktifkan tata-letak %1$s Anda sampai diaktifkan kembali. Penyuntingan yang dilakukan saat dalam mode Penyunting Teks tidak akan tersimpan pada tata letak %1$s Anda. Apakah Anda ingin melanjutkan?"
+
+#: includes/column-settings.php:486 includes/module-settings.php:61
+#: includes/row-settings.php:847
+msgid "Small Devices Only"
+msgstr "Khusus Gawai Kecil"
+
+#: includes/global-settings.php:390
+msgid "Small Device Breakpoint"
+msgstr "Titik-ubah Gawai Kecil"
+
+#: includes/admin-settings-post-types.php:38
+msgid "Select the post types you would like the builder to work with."
+msgstr "Pilih tipe artikel yang ingin Anda gunakan dengan builder."
+
+#: includes/ui-js-config.php:255
+msgid "Replace Existing Layout"
+msgstr "Gantikan Tata Letak yang Sekarang"
+
+#: includes/global-settings.php:341
+msgid "Responsive Layout"
+msgstr "Tata Letak Responsif"
+
+#: includes/ui-loop-settings-filter.php:85 includes/ui-loop-settings.php:80
+#: includes/ui-simple-loop.php:60
+msgid "Order By"
+msgstr "Urut Berdasarkan"
+
+#: includes/row-settings.php:518
+msgid "Pull images from the WordPress media library or a gallery on your SmugMug site by inserting the RSS feed URL from SmugMug. The RSS feed URL can be accessed by using the get a link function in your SmugMug gallery."
+msgstr "Ambil gambar dari pustaka media WordPress atau galeri situs SmugMug anda dengan memasukkan RSS URL umpan dari SmugMug. RSS URL umpan dapat diakses menggunakan fungsi ambil tautan pada galeri SmigMug Anda."
+
+#: includes/admin-settings-js-config.php:15
+msgid "Please type \"uninstall\" in the box below to confirm that you really want to uninstall the page builder and all of its data."
+msgstr "Ketik \"uninstall\" pada kotak dibawah untuk mengonfirmasi bahwa Anda benar-benar ingin menghapus pemasangan builder halaman beserta seluruh data-nya."
+
+#: includes/ui-js-config.php:165
+msgid "Please select either a background layout or content layout before submitting."
+msgstr "Harap pilih salah satu, tata letak latar belakang atau tata letak konten sebelum mengirim."
+
+#: includes/column-settings.php:432 includes/global-settings.php:91
+#: includes/global-settings.php:233 includes/row-settings.php:796
+#: modules/button/button.php:376
+msgid "Padding"
+msgstr "Pengisi (Padding)"
+
+#: includes/ui-js-config.php:276
+msgid "Once you're finished, click the Done button to publish your changes, save a draft or revert back to the last published state."
+msgstr "Setelah Anda selesai, klik tombol Selesai untuk mempublikasikan perubahan, simpan konsep, atau kembalikan ke kondisi publikasi terakhir."
+
+#: includes/column-settings.php:484 includes/module-settings.php:59
+#: includes/row-settings.php:845
+msgid "Medium Devices Only"
+msgstr "Khusus Gawai Sedang"
+
+#: includes/global-settings.php:380
+msgid "Medium Device Breakpoint"
+msgstr "Titik-ubah Gawai Sedang"
+
+#: includes/column-settings.php:485 includes/module-settings.php:60
+#: includes/row-settings.php:846
+msgid "Medium &amp; Small Devices Only"
+msgstr "Khusus Gawai Sedang &amp; Kecil"
+
+#: classes/class-fl-builder-fonts.php:214
+#: classes/class-fl-builder-ui-settings-forms.php:540
+#: includes/ui-js-config.php:201
+msgid "Medium"
+msgstr "Sedang"
+
+#: includes/ui-js-config.php:278
+msgid "Now that you know the basics, you're ready to start building! If at any time you need help, click the help icon in the upper right corner to access the help menu. Happy building!"
+msgstr "Sekarang setelah memahami dasarnya, Anda siap untuk mulai membangun! Jika membutuhkan bantuan, klik ikon bantuan pada ujung kanan atas untuk mengakses menu bantuan. Selamat membangun!"
+
+#: includes/admin-settings-post-types.php:19
+#: includes/admin-settings-post-types.php:39
+msgid "NOTE: Not all custom post types may be supported."
+msgstr "CATATAN: Tidak semua tipe artikel ragam bisa didukung."
+
+#: includes/ui-js-config.php:267
+msgid "Move your mouse over rows, columns or modules to edit and interact with them."
+msgstr "Gerakkan tetikus Anda keatas baris, kolom, atau modul untuk menyunting dan berinteraksi."
+
+#: includes/column-settings.php:482 includes/module-settings.php:57
+#: includes/row-settings.php:843
+msgid "Large Devices Only"
+msgstr "Khusus Piranti Besar"
+
+#: includes/column-settings.php:483 includes/module-settings.php:58
+#: includes/row-settings.php:844
+msgid "Large &amp; Medium Devices Only"
+msgstr "Khusus Piranti Sedang &amp; Besar"
+
+#: includes/row-settings.php:498
+msgid "Fallback Photo"
+msgstr "Foto Alternatif"
+
+#: includes/ui-field-animation.php:19
+msgctxt "Animation style."
+msgid "Fade In"
+msgstr "Masuk Memudar"
+
+#: includes/row-settings.php:565
+msgid "Fade"
+msgstr "Memudar"
+
+#: includes/ui-field-multiple-photos.php:29
+msgid "Edit Gallery"
+msgstr "Sunting Galeri"
+
+#: includes/ui-js-config.php:266
+msgid "Edit Content"
+msgstr "Sunting Konten"
+
+#. translators: %s: form field label
+#: includes/ui-js-config.php:183
+msgctxt "%s stands for form field label."
+msgid "Edit %s"
+msgstr "Sungting %s"
+
+#: includes/ui-js-config.php:181
+msgctxt "Duplicate page/post action label."
+msgid "Duplicate Layout"
+msgstr "Duplikasi Tata Letak"
+
+#: includes/ui-js-config.php:186
+msgid "Drop a row layout or module to get started!"
+msgstr "Pilih tata letak baris atau modul untuk memulai!"
+
+#: includes/ui-js-config.php:177
+msgid "Do you really want to discard these changes? All of your changes that are not published will be lost."
+msgstr "Apakah Anda benar-benar ingin membatalkan perubahan yang dilakukan? Semua perubahan yang belum di publikasikan akan hilang."
+
+#: includes/ui-js-config.php:174
+msgid "Do you really want to delete this template?"
+msgstr "Apakah Anda benar-benar ingin menghapus pola ini?"
+
+#: includes/ui-js-config.php:171
+msgid "Do you really want to delete this item?"
+msgstr "Apakah Anda benar-benar ingin menghapus item ini?"
+
+#: includes/ui-loop-settings-filter.php:77 includes/ui-loop-settings.php:72
+#: includes/ui-simple-loop.php:52
+msgid "Descending"
+msgstr "Menurun"
+
+#: includes/ui-field-animation.php:132
+msgid "Delay"
+msgstr "Tunda"
+
+#: includes/global-settings.php:156
+msgid "Default Row Width"
+msgstr "Nilai-baku Lebar Baris"
+
+#: includes/global-settings.php:170
+msgid "Default Row Content Width"
+msgstr "Nilai-baku Lebar Konten Baris "
+
+#: includes/global-settings.php:11
+msgid "Default Page Heading"
+msgstr "Tajuk Halaman Baku"
+
+#: classes/class-fl-builder-fonts.php:123
+#: classes/class-fl-builder-fonts.php:158
+#: classes/class-fl-builder-fonts.php:199 includes/column-settings.php:498
+#: includes/row-settings.php:72 includes/ui-field-border.php:78
+#: includes/ui-field-typography.php:141 includes/ui-field-typography.php:155
+#: includes/ui-field-typography.php:168
+msgid "Default"
+msgstr "Baku"
+
+#: includes/ui-loop-settings-filter.php:90 includes/ui-loop-settings.php:85
+msgid "Date Last Modified"
+msgstr "Tanggal Perubahan Terakhir"
+
+#: modules/button/button.php:329
+msgid "Custom"
+msgstr "Ragam"
+
+#: includes/ui-loop-settings-filter.php:78 includes/ui-loop-settings.php:73
+#: includes/ui-simple-loop.php:53
+msgid "Ascending"
+msgstr "Menaik"
+
+#: includes/ui-js-config.php:169
+msgid "Are you sure you want to remove this account? Other modules that are connected to it will be affected."
+msgstr "Apakah Anda yakin akan menghapus akun ini? Semua modul yang terkoneksi akan terpengaruh."
+
+#: includes/ui-js-config.php:254
+msgid "Append New Layout"
+msgstr "Tambah Tata Letak Baru"
+
+#: includes/admin-settings-tools.php:183
+msgid "Clicking the button below will uninstall the page builder plugin and delete all of the data associated with it. You can uninstall or deactivate the page builder from the plugins page instead if you do not wish to delete the data."
+msgstr "Mengklik tombol dibawah akan menghapus instalasi plugin builder halaman dan menghapus seluruh data yang terkait. Anda dapat menghapus pemasangan atau melakukan deaktifasi builder halaman dari halaman plugin bila Anda tidak ingin menghapus seluruh data."
+
+#: includes/admin-settings-modules.php:61
+msgid "Check or uncheck modules below to enable or disable them."
+msgstr "Centang atau jangan-centang modul dibawah untuk mengaktifkan atau menonaktifkan."
+
+#: includes/ui-js-config.php:191
+msgid "Beaver Builder caught the following JavaScript error. If Beaver Builder is not functioning as expected the cause is most likely this error. Please help us by disabling all plugins and testing Beaver Builder while reactivating each to determine if the issue is related to a third party plugin."
+msgstr "Beaver Builder menemukan galat JavaScript berikut. Jika Beaver Builder tidak berfungsi sebagaimana diharapkan, penyebabnya kemungkinan adalah galat ini. Mohon membantu kami dengan cara mematikan semua plugin, lalu menguji Beaver Builder dengan cara mengaktifkan plugin satu-persatu guna mengetahui masalah ini terjadi terkait dengan plugin yang mana."
+
+#: includes/row-settings.php:399
+msgid "Background Video"
+msgstr "Video Latar Belakang"
+
+#: includes/row-settings.php:508
+msgid "Background Slideshow"
+msgstr "Latar Belakang Tampilan-geser"
+
+#: includes/column-settings.php:299 includes/row-settings.php:650
+msgid "Background Overlay"
+msgstr "Hamparan Latar Belakang"
+
+#: includes/column-settings.php:343 includes/row-settings.php:695
+#: modules/button/button.php:490 modules/icon/icon.php:199
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: includes/column-settings.php:139 includes/row-settings.php:185
+#: modules/button/button.php:462
+msgid "Background"
+msgstr "Latar Belakang"
+
+#: includes/ui-js-config.php:265
+msgid "Add new content by dragging and dropping modules or widgets into your row layouts or to create a new row layout."
+msgstr "Tambah konten baru dengan menyeret dan menaruh modul atau elemen interaksi (widget) kedalam baris tata letak anda atau untuk membuat baris tata letak baru."
+
+#: includes/ui-js-config.php:263
+msgid "Add multi-column rows, adjust spacing, add backgrounds and more by dragging and dropping row layouts onto the page."
+msgstr "Tambah baris berkolom ganda, sesuaikan spasi, tambah latar belakang, dan lainnya, dengan menyeret dan menaruh tata letak baris kedalam halaman."
+
+#: includes/global-settings.php:26
+msgid "Choosing no will hide the default theme heading for the \"Page\" post type. You will also be required to enter some basic CSS for this to work if you choose no."
+msgstr "Memilih tidak akan menyembunyikan heading tema default untuk tipe artikel halaman. Anda akan diminta memasukkan CSS dasar agar ini dapat bekerja bila Anda memilih tidak."
+
+#: includes/admin-settings-tools.php:7
+msgid "A CSS and JavaScript file is dynamically generated and cached each time you create a new layout. Sometimes the cache needs to be refreshed when you migrate your site to another server or update to the latest version. If you are running into any issues, please try clearing the cache by clicking the button below."
+msgstr "Berkas CSS dan JavaScript secara dinamis di buat dan disinggahkan (cached) setiap anda membuat tata-letak baru. Terkadang singgahan perlu disegarkan saat anda memigrasi situs ke server lain atau membaharui ke versi terakhir. Jika anda mengalami masalah, silahkan coba membersihkan singgahan dengan mengklik tombol dibawah ini."
+
+#: includes/module-settings.php:145
+msgid "A class that will be applied to this module's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. Separate multiple classes with spaces."
+msgstr "Kelas yang akan diaplikasikan pada HTML modul ini. Harus dimulai dengan huruf dan hanya berisi garis, garis bawah, huruf atau angka. Pisahkan kelas dengan spasi."
+
+#: includes/column-settings.php:583
+msgid "A class that will be applied to this column's HTML. Must start with a letter and only contain dashes, underscores, letters or numbers. Separate multiple classes with spaces."
+msgstr "Kelas yang akan diaplikasikan ke HTML kolom ini. Harus dimulai dengan huruf dan hanya berisi garis, garis bawah, huruf atau angka. Pisahkan kelas dengan spasi."
+
+#: includes/ui-js-config.php:197
+msgid "\"{message}\" on line {line} of {file}."
+msgstr "\"{message}\" pada baris {line} dari {file}."
+
+#: includes/global-settings.php:360
+msgctxt "General settings form field label. Intended meaning: \"Enable auto spacing for responsive layouts?\""
+msgid "Enable Auto Spacing"
+msgstr "Aktifkan Spasi Otomatis"
+
+#: includes/global-settings.php:345
+msgctxt "General settings form field label. Intended meaning: \"Responsive layout enabled?\""
+msgid "Enabled"
+msgstr "Aktifkan"
+
+#: includes/global-settings.php:32
+msgid "Enter a CSS selector for the default page heading to hide it."
+msgstr "Masukkan pemilih CSS pada tajuk halaman baku untuk menyembunyikannya."
+
+#: includes/ui-field-link.php:46
+msgid "Enter a post title to search."
+msgstr "Masukkan judul artikel untuk dicari."
+
+#: includes/admin-settings-post-types.php:18
+msgid "Enter a comma separated list of the post types you would like the builder to work with."
+msgstr "Masukkan daftar terpisah koma dari tipe artikel yang anda ingin olah menggunakan builder."
+
+#: includes/admin-settings-modules.php:48
+msgid "Enabled Modules"
+msgstr "Aktifkan Modul"
+
+#: classes/class-fl-builder-services.php:254
+msgctxt "Account name for a third party service such as MailChimp."
+msgid "Error: An account with that name already exists."
+msgstr "Galat: Akun dengan nama tersebut sudah ada."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-sendinblue.php:229
+msgid "Error: Could not subscribe to SendinBlue. %s"
+msgstr "Galat: Tidak dapat berlangganan ke SendinBlue. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-sendinblue.php:77
+#: classes/class-fl-builder-service-sendinblue.php:136
+msgid "Error: Could not connect to SendinBlue. %s"
+msgstr "Galat: Tidak dapat terkoneksi ke SendinBlue. %s"
+
+#: classes/class-fl-builder-service-email-address.php:121
+#: includes/ui-simple-loop.php:66
+msgid "Name"
+msgstr "Nama"
+
+#: classes/class-fl-builder-service-infusionsoft.php:240
+msgid "There was an error subscribing to Infusionsoft. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke Infusionsoft. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-icontact-pro.php:79
+#: classes/class-fl-builder-service-infusionsoft.php:79
+msgid "Error: You must provide an app ID."
+msgstr "Galat: Anda harus memasukkan ID app."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-infusionsoft.php:48
+msgid "There was an error connecting to Infusionsoft. %s"
+msgstr "Ada galat saat koneksi ke Infusionsoft. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-icontact.php:275
+msgid "There was an error subscribing to iContact. %s"
+msgstr "Ada galat saat mendaftar ke iContact. %s"
+
+#: classes/class-fl-builder-service-icontact-pro.php:275
+#: classes/class-fl-builder-service-icontact.php:238
+msgid "There was an error subscribing to iContact. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke iContact. Akun tidak lagi terkoneksi."
+
+#. translators: 1: create app url: 2: docs url
+#: classes/class-fl-builder-service-icontact.php:141
+msgid "You must <a%1$s>create an app</a> in iContact to obtain an app ID and password. Please see <a%2$s>the iContact docs</a> for complete instructions."
+msgstr "Anda harus <a%1$s>membuat app</a> pada iContact untuk memperoleh app ID dan kata-kunci. Silahkan lihat <a%2$s>dokumentasi iContact</a> untuk petunjuk lengkap."
+
+#: classes/class-fl-builder-service-icontact-pro.php:139
+#: classes/class-fl-builder-service-icontact.php:127
+#: classes/class-fl-builder-service-infusionsoft.php:110
+msgid "App ID"
+msgstr "App ID"
+
+#: classes/class-fl-builder-service-icontact-pro.php:128
+#: classes/class-fl-builder-service-icontact.php:116
+msgid "Username"
+msgstr "Nama-pengguna"
+
+#: classes/class-fl-builder-service-hatchbuck.php:191
+#: classes/class-fl-builder-service-hatchbuck.php:223
+msgid "There was an error subscribing to Hatchbuck."
+msgstr "Ada galat saat mendaftar ke Hartchbuck"
+
+#: classes/class-fl-builder-service-hatchbuck.php:185
+msgid "There was an error subscribing to Hatchbuck. The API key is invalid."
+msgstr "Ada galat saat mendaftar ke Hatchbuck. Kunci API invalid."
+
+#: classes/class-fl-builder-service-hatchbuck.php:157
+msgid "There was an error subscribing to Hatchbuck. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke Hatchbuck. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-hatchbuck.php:129
+msgctxt "A tag to add to contacts in Hatchbuck when they subscribe."
+msgid "Tag"
+msgstr "Tag"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-getresponse.php:247
+msgid "There was an error subscribing to GetResponse. %s"
+msgstr "Ada galat saat mendaftar ke GetResponse. %s"
+
+#: classes/class-fl-builder-service-getresponse.php:200
+msgid "There was an error subscribing to GetResponse. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke GetResponse. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-email-address.php:127
+msgid "There was an error subscribing. Please try again."
+msgstr "Ada galat saat mendaftar. Mohon coba kembali."
+
+#: classes/class-fl-builder-service-email-address.php:118
+msgid "Email"
+msgstr "Surel"
+
+#: classes/class-fl-builder-service-email-address.php:112
+msgid "Subscribe Form Signup"
+msgstr "Form Pendaftaran"
+
+#: classes/class-fl-builder-service-email-address.php:109
+msgid "There was an error subscribing. The account is no longer connected."
+msgstr "Terjadi galat saat mendaftar. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-email-address.php:61
+#: classes/class-fl-builder-service-madmimi.php:102
+msgid "Email Address"
+msgstr "Alamat Surel"
+
+#: classes/class-fl-builder-service-email-address.php:38
+#: classes/class-fl-builder-service-madmimi.php:67
+msgid "Error: You must provide an email address."
+msgstr "Galat: Anda harus memberikan alamat surel."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-constant-contact.php:240
+#: classes/class-fl-builder-service-constant-contact.php:273
+msgid "There was an error subscribing to Constant Contact. %s"
+msgstr "Terjadi galat saat mendaftar ke Constant Contact. %s"
+
+#: classes/class-fl-builder-service-constant-contact.php:189
+msgid "There was an error subscribing to Constant Contact. The account is no longer connected."
+msgstr "Terjadi galat saat mendaftar ke Constant Contact. Akun tidak lagi terkoneksi."
+
+#. translators: 1: account link: 2: api key link
+#: classes/class-fl-builder-service-constant-contact.php:96
+msgid "You must register a <a%1$s>Developer Account</a> with Constant Contact to obtain an API key and access token. Please see <a%2$s>Getting an API key</a> for complete instructions."
+msgstr "Anda harus mendaftar <a%1$s>Akun Developer</a> dengan Constant Contact untuk memperoleh kunci API dan token akses. Silahkan lihat <a%2$s>Memperoleh Kunci API</a> untuk instruksi lengkap."
+
+#: classes/class-fl-builder-service-constant-contact.php:93
+msgid "Access Token"
+msgstr "Token Akses"
+
+#: classes/class-fl-builder-service-campaign-monitor.php:156
+msgctxt "A client account in Campaign Monitor."
+msgid "Client"
+msgstr "Klien"
+
+#: classes/class-fl-builder-service-aweber.php:120
+msgid "Authorization Code"
+msgstr "Kode Otorisasi"
+
+#: classes/class-fl-builder-service-aweber.php:214
+#: classes/class-fl-builder-service-campaign-monitor.php:207
+#: classes/class-fl-builder-service-constant-contact.php:161
+#: classes/class-fl-builder-service-convertkit.php:161
+#: classes/class-fl-builder-service-enormail.php:168
+#: classes/class-fl-builder-service-getresponse.php:160
+#: classes/class-fl-builder-service-icontact-pro.php:247
+#: classes/class-fl-builder-service-icontact.php:210
+#: classes/class-fl-builder-service-madmimi.php:179
+#: classes/class-fl-builder-service-mailchimp.php:194
+#: classes/class-fl-builder-service-mailjet.php:246
+#: classes/class-fl-builder-service-mailpoet.php:122
+#: classes/class-fl-builder-service-mautic.php:220
+#: classes/class-fl-builder-service-sendinblue.php:168
+msgctxt "An email list from a third party provider."
+msgid "List"
+msgstr "Daftar"
+
+#: classes/class-fl-builder-service-activecampaign.php:205
+#: classes/class-fl-builder-service-activecampaign.php:239
+#: classes/class-fl-builder-service-aweber.php:203
+#: classes/class-fl-builder-service-campaign-monitor.php:144
+#: classes/class-fl-builder-service-campaign-monitor.php:195
+#: classes/class-fl-builder-service-campayn.php:196
+#: classes/class-fl-builder-service-constant-contact.php:150
+#: classes/class-fl-builder-service-convertkit.php:148
+#: classes/class-fl-builder-service-drip.php:186
+#: classes/class-fl-builder-service-drip.php:245
+#: classes/class-fl-builder-service-enormail.php:155
+#: classes/class-fl-builder-service-getresponse.php:148
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:166
+#: classes/class-fl-builder-service-icontact-pro.php:236
+#: classes/class-fl-builder-service-icontact.php:198
+#: classes/class-fl-builder-service-infusionsoft.php:196
+#: classes/class-fl-builder-service-madmimi.php:168
+#: classes/class-fl-builder-service-mailchimp.php:181
+#: classes/class-fl-builder-service-mailerlite.php:156
+#: classes/class-fl-builder-service-mailjet.php:233
+#: classes/class-fl-builder-service-mailpoet.php:111
+#: classes/class-fl-builder-service-mailrelay.php:183
+#: classes/class-fl-builder-service-mautic.php:209
+#: classes/class-fl-builder-service-ontraport.php:183
+#: classes/class-fl-builder-service-sendinblue.php:157
+#: classes/class-fl-builder-services.php:360 includes/ui-service-settings.php:7
+#: modules/reusable-block/reusable-block.php:42
+msgid "Choose..."
+msgstr "Pilih..."
+
+#: classes/class-fl-builder-service-activecampaign.php:100
+msgid "API URL"
+msgstr "URL API"
+
+#: classes/class-fl-builder-photo.php:97
+msgctxt "Image size."
+msgid "Medium"
+msgstr "Sedang"
+
+#: classes/class-fl-builder-photo.php:96
+msgctxt "Image size."
+msgid "Large"
+msgstr "Besar"
+
+#: classes/class-fl-builder-photo.php:91 classes/class-fl-builder-photo.php:95
+msgctxt "Image size."
+msgid "Full Size"
+msgstr "Ukuran Penuh"
+
+#: includes/ui-js-config.php:325
+msgid "Content Pages"
+msgstr "Isi Halaman"
+
+#: classes/class-fl-builder-module.php:388
+msgid "Advanced Modules"
+msgstr "Modul Paripurna"
+
+#: classes/class-fl-builder-module.php:386
+msgid "Basic Modules"
+msgstr "Modul Dasar"
+
+#: includes/admin-settings-tools.php:3
+msgid "Cache"
+msgstr "Singgahan (Cache)"
+
+#: classes/class-fl-builder-admin-settings.php:275
+msgid "Icons"
+msgstr "Ikon"
+
+#: classes/class-fl-builder-admin-settings.php:265
+#: includes/admin-settings-post-types.php:3
+msgid "Post Types"
+msgstr "Tipe Artikel"
+
+#: classes/class-fl-builder-ui-content-panel.php:53
+msgid "Templates"
+msgstr "Pola"
+
+#: classes/class-fl-builder-service-activecampaign.php:111
+#: classes/class-fl-builder-service-campaign-monitor.php:86
+#: classes/class-fl-builder-service-campayn.php:143
+#: classes/class-fl-builder-service-constant-contact.php:82
+#: classes/class-fl-builder-service-convertkit.php:96
+#: classes/class-fl-builder-service-enormail.php:103
+#: classes/class-fl-builder-service-getresponse.php:96
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:111
+#: classes/class-fl-builder-service-hatchbuck.php:84
+#: classes/class-fl-builder-service-infusionsoft.php:121
+#: classes/class-fl-builder-service-madmimi.php:113
+#: classes/class-fl-builder-service-mailchimp.php:107
+#: classes/class-fl-builder-service-mailerlite.php:104
+#: classes/class-fl-builder-service-mailjet.php:146
+#: classes/class-fl-builder-service-mailrelay.php:127
+#: classes/class-fl-builder-service-ontraport.php:123
+#: classes/class-fl-builder-service-sendinblue.php:101
+#: classes/class-fl-builder-service-sendy.php:125
+msgid "API Key"
+msgstr "Kunci API"
+
+#: classes/class-fl-builder-admin-settings.php:260
+#: classes/class-fl-builder-ui-content-panel.php:32
+#: includes/global-settings.php:285
+msgid "Modules"
+msgstr "Modul"
+
+#: classes/class-fl-builder-admin-settings.php:250
+msgid "License"
+msgstr "Lisensi"
+
+#. translators: %s: builder branded name
+#: classes/class-fl-builder-admin-settings.php:213
+msgctxt "%s stands for custom branded \"Page Builder\" name."
+msgid "%s Settings"
+msgstr "Pengaturan %s"
+
+#: classes/class-fl-builder-service-icontact.php:117
+msgid "Your iContact username."
+msgstr "Nama-pengguna iContact Anda."
+
+#: classes/class-fl-builder-service-icontact.php:139
+msgid "Your iContact app password."
+msgstr "Kata kunci iContact app Anda."
+
+#: classes/class-fl-builder-service-icontact.php:128
+msgid "Your iContact app ID."
+msgstr "ID iContact app Anda."
+
+#: classes/class-fl-builder-service-constant-contact.php:83
+msgid "Your Constant Contact API key."
+msgstr "Kunci API Constant Contact Anda."
+
+#: classes/class-fl-builder-service-constant-contact.php:94
+msgid "Your Constant Contact access token."
+msgstr "Token akses Constant Contact Anda."
+
+#: classes/class-fl-builder-service-infusionsoft.php:111
+msgid "Your App ID can be found in the URL for your account. For example, if the URL for your account is myaccount.infusionsoft.com, your App ID would be <strong>myaccount</strong>."
+msgstr "ID App Anda dapat ditemukan pada URL untuk akun Anda. Sebagai contoh, bila URL untuk akun Anda adalah: myaccount.infusionsoft.com, ID App Anda adalah <strong>myaccount</strong>."
+
+#: classes/class-fl-builder-service-infusionsoft.php:122
+msgid "Your API key can be found in your Infusionsoft account under Admin > Settings > Application > API > Encrypted Key."
+msgstr "Kunci API dapat diperoleh di akun Infusionsoft Anda, dibawah Admin > Settings > Application > API > Encrypted Key."
+
+#: classes/class-fl-builder-service-hatchbuck.php:85
+msgid "Your API key can be found in your Hatchbuck account under Account Settings > Web API."
+msgstr "Kunci API dapat ditemukan pada akun Hatchbuck Anda, dibawah Account Settings > Web API."
+
+#: classes/class-fl-builder-service-getresponse.php:97
+msgid "Your API key can be found in your GetResponse account under My Account > API & OAuth."
+msgstr "Kunci API dapat ditemukan di akun GetResponse Anda, dibawah My Account > API & OAuth."
+
+#: classes/class-fl-builder-service-campayn.php:144
+msgid "Your API key can be found in your Campayn account under Settings > API Key."
+msgstr "Kunci API dapat ditemukan pada akun Campayn Anda, dibawah Setting > API key."
+
+#: classes/class-fl-builder-service-campaign-monitor.php:87
+msgid "Your API key can be found in your Campaign Monitor account under Account Settings > API Key."
+msgstr "Kunci API dapat diperoleh pada akun Campaign Monitor Anda, dibawah Account Settings > API Key."
+
+#: classes/class-fl-builder-model.php:3314
+#: classes/class-fl-builder-model.php:3449
+#: classes/class-fl-builder-model.php:3877
+#: includes/admin-settings-modules.php:78 includes/ui-js-config.php:287
+#: modules/widget/widget.php:15 modules/widget/widget.php:16
+msgid "WordPress Widgets"
+msgstr "Piranti WordPress"
+
+#: classes/class-fl-builder-admin-settings.php:255
+#: classes/class-fl-builder-ui-content-panel.php:222
+msgid "Upgrade"
+msgstr "Mutakhirkan"
+
+#: classes/class-fl-builder-admin.php:264
+msgctxt "Plugin action link label."
+msgid "Upgrade"
+msgstr "Mutakhirkan"
+
+#: includes/admin-settings-tools.php:180 includes/admin-settings-tools.php:190
+msgid "Uninstall"
+msgstr "Hapus-pemasangan"
+
+#: classes/class-fl-builder-model.php:5339
+msgctxt "Default user template category."
+msgid "Uncategorized"
+msgstr "Tidak dikategorikan"
+
+#: classes/class-fl-builder-photo.php:98
+msgctxt "Image size."
+msgid "Thumbnail"
+msgstr "Seujung-kuku"
+
+#: classes/class-fl-builder-service-campaign-monitor.php:235
+msgid "There was an error subscribing to Campaign Monitor. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke Campaign Monitor. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-campaign-monitor.php:251
+msgid "There was an error subscribing to Campaign Monitor."
+msgstr "Ada galat saat mendaftar ke Campaign Monitor."
+
+#: classes/class-fl-builder-service-aweber.php:267
+msgid "There was an error subscribing to AWeber. The account is no longer connected."
+msgstr "Ada galat mendaftar ke AWeber. Akun tidak lagi terkoneksi."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-aweber.php:318
+#: classes/class-fl-builder-service-aweber.php:337
+msgid "There was an error subscribing to AWeber. %s"
+msgstr "Ada galat saat mendaftar ke AWeber. %s"
+
+#: classes/class-fl-builder-service-activecampaign.php:307
+msgid "There was an error subscribing to ActiveCampaign. The account is no longer connected."
+msgstr "Ada galat saat mendaftar ke ActiveCampaign. Akun tidak lagi terkoneksi."
+
+#: classes/class-fl-builder-service-aweber.php:313
+#: classes/class-fl-builder-service-aweber.php:331
+msgid "There was an error connecting to AWeber. Please try again."
+msgstr "Ada galat koneksi ke AWeber. Mohon mencoba lagi."
+
+#: classes/class-fl-builder-admin-settings.php:228
+msgid "Settings updated!"
+msgstr "Pengaturan terbarui!"
+
+#. translators: %s: register url
+#: classes/class-fl-builder-service-aweber.php:122
+msgid "Please register this website with AWeber to get your Authorization Code. <a%s>Register Now</a>"
+msgstr "Mohon meregistrasi situs ini dengan AWeber untuk memperoleh Kode Otorisasi Anda. <a%s>Registrasi Sekarang</a>"
+
+#: classes/class-fl-builder-service-icontact-pro.php:77
+#: classes/class-fl-builder-service-icontact.php:73
+msgid "Error: You must provide a username."
+msgstr "Galat: Anda harus memasukkan nama-pengguna."
+
+#: classes/class-fl-builder-service-icontact.php:77
+msgid "Error: You must provide a app password."
+msgstr "Galat: Anda harus memasukkan kata-sandi."
+
+#: classes/class-fl-builder-service-aweber.php:74
+msgid "Error: Please enter a valid Authorization Code."
+msgstr "Galat: Mohon masukkan Kode Otorisasi yang valid."
+
+#: classes/class-fl-builder-service-activecampaign.php:75
+msgid "Error: Please check your API URL and API key."
+msgstr "Galat: Mohon periksa URL API dan kunci API Anda."
+
+#: classes/class-fl-builder-service-campaign-monitor.php:66
+#: classes/class-fl-builder-service-campaign-monitor.php:125
+#: classes/class-fl-builder-service-convertkit.php:127
+#: classes/class-fl-builder-service-enormail.php:134
+#: classes/class-fl-builder-service-getresponse.php:72
+#: classes/class-fl-builder-service-getresponse.php:127
+#: classes/class-fl-builder-service-hatchbuck.php:60
+msgid "Error: Please check your API key."
+msgstr "Galat: Mohon periksa kunci API Anda."
+
+#: classes/class-fl-builder-service-icontact.php:75
+msgid "Error: You must provide a app ID."
+msgstr "Galat: Anda harus memasukkan ID app."
+
+#: classes/class-fl-builder-service-constant-contact.php:49
+msgid "Error: You must provide an access token."
+msgstr "Galat: Anda harus memasukkan token akses."
+
+#: classes/class-fl-builder-service-activecampaign.php:67
+msgid "Error: You must provide an API URL."
+msgstr "Galat: Anda harus memasukkan URL API."
+
+#: classes/class-fl-builder-service-aweber.php:72
+msgid "Error: You must provide an Authorization Code."
+msgstr "Galat: Anda harus memasukkan Kode Otorisasi."
+
+#. translators: %s: post/page title
+#: classes/class-fl-builder-model.php:4536
+msgctxt "%s stands for post/page title."
+msgid "Copy of %s"
+msgstr "Salinan dari %s"
+
+#: classes/class-fl-builder-service-icontact-pro.php:150
+#: classes/class-fl-builder-service-icontact.php:138
+msgid "App Password"
+msgstr "Kata Sandi App"
+
+#. translators: %s: module filename
+#: classes/class-fl-builder-model.php:3061
+msgctxt "%s stands for the module filename"
+msgid "A module with the filename %s.php already exists! Please namespace your module filenames to ensure compatibility with Beaver Builder."
+msgstr "Modul dengan nama berkas %s.php sudah ada! Mohon atur penamaan modul Anda untuk menjamin kompatibilitas dengan Beaver Builder."
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-icontact.php:96
+#: classes/class-fl-builder-service-icontact.php:179
+msgid "Error: Could not connect to iContact. %s"
+msgstr "Galat: Tidak dapat terkoneksi ke iContact. %s"
+
+#. translators: %s: error
+#: classes/class-fl-builder-service-constant-contact.php:57
+#: classes/class-fl-builder-service-constant-contact.php:129
+msgid "Error: Could not connect to Constant Contact. %s"
+msgstr "Galat: Tidak dapat terkoneksi ke Constant Contact. %s"
+
+#: classes/class-fl-builder-service-activecampaign.php:372
+msgid "Error: Invalid API data."
+msgstr "Galat: Data API invalid."
+
+#: classes/class-fl-builder-service-activecampaign.php:69
+#: classes/class-fl-builder-service-campaign-monitor.php:53
+#: classes/class-fl-builder-service-campayn.php:100
+#: classes/class-fl-builder-service-constant-contact.php:47
+#: classes/class-fl-builder-service-convertkit.php:65
+#: classes/class-fl-builder-service-enormail.php:67
+#: classes/class-fl-builder-service-getresponse.php:65
+#: classes/class-fl-builder-service-godaddy-email-marketing.php:69
+#: classes/class-fl-builder-service-hatchbuck.php:47
+#: classes/class-fl-builder-service-infusionsoft.php:77
+#: classes/class-fl-builder-service-madmimi.php:69
+#: classes/class-fl-builder-service-mailchimp.php:72
+#: classes/class-fl-builder-service-mailrelay.php:79
+#: classes/class-fl-builder-service-ontraport.php:70
+#: classes/class-fl-builder-service-sendy.php:70
+msgid "Error: You must provide an API key."
+msgstr "Galat: Anda harus memasukkan kunci API."
+
+#: classes/class-fl-builder-admin-settings.php:618
+msgid "Error! Could not unzip file."
+msgstr "Galat! Tidak dapat melakukan unzip berkas."
+
+#: classes/class-fl-builder-admin-settings.php:529
+msgid "Error! You must have at least one icon set enabled."
+msgstr "Galat! Anda harus memiliki setidaknya satu set ikon yang aktif."
