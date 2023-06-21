@@ -44,28 +44,31 @@ function krystal_uninstall(){
     $table_name = $wpdb->prefix . 'krystalhelder';
 
     /* $charset_collate = $wpdb->get_charset_collate(); */
-    $firstQuery = "SELECT order_item_id FROM wp_woocommerce_order_items ORDER BY order_item_id DESC LIMIT 1;";
-    $secondQuery = "SELECT order_item_name FROM wp_woocommerce_order_items ORDER BY order_item_id DESC LIMIT 1;";
-    $thirdQuery = "SELECT order_item_type FROM wp_woocommerce_order_items ORDER BY order_item_id DESC LIMIT 1;";
-    $forthQuery = "SELECT order_id FROM wp_woocommerce_order_items ORDER BY order_item_id DESC LIMIT 1;";
 
     require_once ABSPATH . 'wp-admin/includes/upgrade.php';
     
-    $ItemIdQuery = dbDelta($firstQuery);
-    $NameQuery = dbDelta($secondQuery);
-    $typeQuery = dbDelta($thirdQuery);
-    $orderIdQuery = dbDelta($forthQuery);
-
-    //problem was with name having a spacebar and line_item being a link
-    $sql = "INSERT INTO $table_name(order_item_id, order_item_name, order_item_type, order_id) values ($ItemIdQuery, '$NameQuery', '$typeQuery', $orderIdQuery)";
-
-    dbDelta($sql);
+    $ItemQuery = $wpdb->get_results("SELECT order_item_id, order_item_name, order_item_type, order_id FROM wp_woocommerce_order_items ORDER BY order_item_id ASC");
 
     /* add_option('krystal_db_version', $krystal_db_version); */
+    /* $result = $wpdb->get_results("SELECT product FROM {$table_name}"); */
+
+    foreach($ItemQuery as $value){
+        insert_data($value->order_item_id, $value->order_item_name, $value->order_item_type, $value->order_id);
+    }
+    
+    
 }
 
-function krystal_addData($product_data){
+function insert_data($itemId, $itemName, $itemType, $orderId) {
+    global $wpdb;
     $table_name = $wpdb->prefix . 'krystalhelder';
-    $sql = "INSERT INTO $table_name (product) VALUES ($product_data)";
-    dbDelta($sql);
+    $wpdb->insert(
+        $table_name,
+        array(
+            'order_item_id' => $itemId,
+            'order_item_name' =>  $itemName /* $NameQuery */,
+            'order_item_type' => $itemType/* $typeQuery */,
+            'order_id' => $orderId/* $orderIdQuery */,
+        )
+    );
 }
