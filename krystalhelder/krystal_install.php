@@ -38,6 +38,8 @@ function krystal_install(){
 }
 
 function krystal_uninstall(){
+    write_log('THIS IS THE START OF MY CUSTOM DEBUG');
+
     global $wpdb;
     global $krystal_db_version;
 
@@ -48,6 +50,9 @@ function krystal_uninstall(){
     require_once ABSPATH . 'wp-admin/includes/upgrade.php';
     
     $ItemQuery = $wpdb->get_results("SELECT order_item_id, order_item_name, order_item_type, order_id FROM wp_woocommerce_order_items ORDER BY order_item_id ASC");
+
+    write_log($ItemQuery);
+
 
     /* add_option('krystal_db_version', $krystal_db_version); */
     /* $result = $wpdb->get_results("SELECT product FROM {$table_name}"); */
@@ -60,15 +65,23 @@ function krystal_uninstall(){
 }
 
 function insert_data($itemId, $itemName, $itemType, $orderId) {
-    global $wpdb;
-    $table_name = $wpdb->prefix . 'krystalhelder';
-    $wpdb->insert(
-        $table_name,
-        array(
-            'order_item_id' => $itemId,
-            'order_item_name' =>  $itemName /* $NameQuery */,
-            'order_item_type' => $itemType/* $typeQuery */,
-            'order_id' => $orderId/* $orderIdQuery */,
-        )
-    );
+    $url = "host.docker.internal:3030/kristal/create?access-token=100-token";
+
+    $ch = curl_init( $url );
+    # Setup request to send json via POST.
+    $payload = json_encode( array(
+        'order_item_id' => $itemId,
+        'order_item_name' =>  $itemName /* $NameQuery */,
+        'order_item_type' => $itemType/* $typeQuery */,
+        'order_id' => $orderId/* $orderIdQuery */,
+    ) );
+    curl_setopt( $ch, CURLOPT_POSTFIELDS, $payload );
+    curl_setopt( $ch, CURLOPT_HTTPHEADER, array('Content-Type:application/json'));
+    # Return response instead of printing.
+    curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );
+    # Send request.
+    write_log($ch);
+    $result = curl_exec($ch);
+    curl_close($ch);
+    write_log($result);
 }
