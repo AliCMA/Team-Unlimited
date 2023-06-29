@@ -37,7 +37,7 @@ function krystal_install(){
     add_option('krystal_db_version', $krystal_db_version);
 }
 
-function krystal_uninstall(){
+function upload(){
     write_log('THIS IS THE START OF MY CUSTOM DEBUG');
 
     global $wpdb;

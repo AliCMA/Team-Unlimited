@@ -7,7 +7,7 @@
 require "krystal_install.php";
 
 register_activation_hook(__FILE__, 'krystal_install');
-register_deactivation_hook(__FILE__, 'krystal_uninstall');
+register_deactivation_hook(__FILE__, 'upload');
 
 if (!function_exists('write_log')) {
 
