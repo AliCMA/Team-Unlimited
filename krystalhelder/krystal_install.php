@@ -69,6 +69,7 @@ function insert_data($itemId, $itemName, $itemType, $orderId) {
 
     $ch = curl_init( $url );
     # Setup request to send json via POST.
+    //insert only works with assiciative arrays, here we add value to the row we want to insert the data into
     $payload = json_encode( array(
         'order_item_id' => $itemId,
         'order_item_name' =>  $itemName /* $NameQuery */,
